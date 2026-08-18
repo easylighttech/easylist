@@ -1,0 +1,584 @@
+key,description,en,ru,es,it,de,nl,fr,pl
+VPN,General,VPN,VPN,VPN,VPN,VPN,VPN,VPN,VPN
+connection_test_error,xRay,Internet connection test failed: %s,Сбой проверки интернет-соединения: %s,Falló la prueba de conexión a Internet: %s,Test della connessione Internet non riuscito: %s,Internetverbindungstest fehlgeschlagen: %s,Internetverbindingstest mislukt: %s,Échec du test de connexion Internet : %s,Test połączenia internetowego nie powiódł się: %s
+connection_test_available,xRay,Success: HTTP handshake took %d ms,Успешно: рукопожатие HTTP заняло %d мс,Éxito: el protocolo de enlace HTTP tardó %d ms,Operazione riuscita: l'handshake HTTP ha richiesto %d ms,Erfolg: HTTP-Handshake dauerte %d ms,Succes: HTTP-handshake duurde %d ms,Succès : la négociation HTTP a pris %d ms,Sukces: uzgadnianie HTTP trwało %d ms
+notification_action_stop_v2ray,xRay,Stop,Остановить,Detener,Fermare,Stopp,Stop,Arrêter,Zatrzymaj
+app_tile_name,xRay,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight
+toast_incorrect_protocol,xRay,Incorrect protocol,Incorrect protocol,Protocolo incorrecto,Protocollo errato,Falsches Protokoll,Onjuist protocol,Protocole incorrect,Nieprawidłowy protokół
+toast_permission_denied,xRay-Notifications,Unable to obtain the permission,Разрешение не получено,No se puede obtener el permiso,Impossibile ottenere l'autorizzazione,Die Berechtigung konnte nicht eingeholt werden,Kan de toestemming niet verkrijgen,Impossible d'obtenir l'autorisation,Nie można uzyskać pozwolenia
+toast_permission_denied_notification,xRay-Notifications,Unable to obtain the notification permission,Разрешение на отображение уведомлений не получено,No se puede obtener el permiso de notificación,Impossibile ottenere l'autorizzazione alla notifica,Die Benachrichtigungsberechtigung konnte nicht eingeholt werden,Kan de meldingstoestemming niet verkrijgen,Impossible d'obtenir l'autorisation de notification,Nie można uzyskać pozwolenia na powiadomienie
+notification_action_more,xRay-Notifications,Click for more,Ещё…,Haga clic para más,Fare clic per ulteriori informazioni,Klicken Sie für mehr,Klik voor meer,Cliquez pour en savoir plus,"Kliknij, aby uzyskać więcej"
+toast_services_start,xRay-Notifications,Start Services,Запуск служб,Iniciar servicios,Avvia Servizi,Starten Sie Dienste,Diensten starten,Démarrer les services,Uruchom usługi
+toast_services_stop,xRay-Notifications,Stop Services,Остановка служб,Detener servicios,Interrompere i servizi,Dienste stoppen,Diensten stopzetten,Arrêter les services,Zatrzymaj usługi
+toast_services_success,xRay-Notifications,Start Services Success,Службы успешно запущены,Iniciar servicios con éxito,Avvia il successo dei servizi,Starten Sie mit Services zum Erfolg,Start Services Succes,Démarrer les services avec succès,Uruchom usługi sukcesem
+toast_services_failure,xRay-Notifications,Start Services Failure,Сбой при запуске служб,Error de inicio de servicios,Errore nell'avvio dei servizi,Fehler beim Starten der Dienste,Fout bij starten van services,Échec des services de démarrage,Uruchomienie usług Awaria
+toast_none_data,xRay-Notifications,There is nothing,Ничего нет,no hay nada,Non c'è niente,Es gibt nichts,Er is niets,Il n'y a rien,Nie ma nic
+connection_test_error_status_code,xRay-Notifications,Error code: #%d,Код ошибки: #%d,Código de error: #%d,Codice errore: #%d,Fehlercode: #%d,Foutcode: #%d,Code d'erreur : #%d,Kod błędu: #%d
+title_create_intelligent_selection_all_server,xRay-Notifications,Creating Intelligent Selection Current Group Configuration,Создать конфигурацию умного выбора,Creación de configuración del grupo actual de selección inteligente,Creazione della configurazione del gruppo corrente di selezione intelligente,Erstellen einer intelligenten Auswahl aktueller Gruppenkonfiguration,Intelligente selectie maken Huidige groepsconfiguratie,Création de la configuration actuelle du groupe de sélection intelligente,Tworzenie inteligentnej selekcji bieżącej konfiguracji grupy
+intelligent_selection,xRay-Notifications,Intelligent Selection,Умный выбор,Selección inteligente,Selezione intelligente,Intelligente Auswahl,Intelligente selectie,Sélection intelligente,Inteligentny wybór
+sub_setting_intelligent_selection_filter,xRay-Notifications,Remarks Intelligent Selection regular filter,Название фильтра умного выбора,Observaciones Filtro regular de selección inteligente,Osservazioni Filtro regolare di selezione intelligente,Bemerkungen: Regulärer Filter „Intelligente Auswahl“.,Opmerkingen Intelligent Selection regulier filter,Remarques Filtre régulier de sélection intelligente,Uwagi Filtr zwykły Inteligentny Wybór
+title_intelligent_selection_method,xRay-Notifications,Intelligent Selection Method,Принцип умного выбора,Método de selección inteligente,Metodo di selezione intelligente,Intelligente Auswahlmethode,Intelligente selectiemethode,Méthode de sélection intelligente,Inteligentna metoda selekcji
+about_activity_title,About Activity,About the App,О приложении,Acerca de la aplicación,Informazioni sull'app,Über die App,Over de app,À propos de l'application,Ainformacje o aplikacji
+about_activity_version,About Activity,Version,Версия,Versión,Versione,Version,Versie,Version,Wersja
+about_activity_version_example,About Activity,Version 1.1.2(156),Версия 1.1.2(156),Versión 1.1.2(156),Versione 1.1.2(156),Version 1.1.2(156),Versie 1.1.2(156),Version 1.1.2(156),Wersja 1.1.2(156)
+about_activity_license,About Activity,Cookie Policy,Политика cookie,Política de cookies,Politica sui cookie,Cookie-Richtlinie,Cookiebeleid,Politique en matière de cookies,Polityka plików cookie
+about_activity_privacy,About Activity,Privacy Policy,Политика Конфиденциальности,Política de privacidad,Informativa sulla privacy,Datenschutzrichtlinie,Privacybeleid,Politique de confidentialité,Polityka prywatności
+about_activity_copyright_name,About Activity,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN,©EasyLight VPN
+about_activity_rights_reserved,About Activity,All rights reserved,Все права защищены,Todos los derechos reservados,Tutti i diritti riservati,Alle Rechte vorbehalten,Alle rechten voorbehouden,Tous droits réservés,Wszelkie prawa zastrzeżone
+about_activity_web_cite,About Activity,Website,Наш сайт,Sitio web,Sito web,Website,Website,Site Web,Strona internetowa
+about_activity_version_copied,About Activity,Version copied to clipboard,Версия скопирована в буфер обмена,Versión copiada al portapapeles,Versione copiata negli appunti,Version in die Zwischenablage kopiert,Versie gekopieerd naar klembord,Version copiée dans le presse-papiers,Wersja skopiowana do schowka
+share_activity_title,Share Activity,"Invite friends 
+and earn bonuses","Приглашай друзей 
+и получай бонусы","Invita amigos 
+ y gana bonificaciones","Invita gli amici 
+ e guadagna bonus","Laden Sie Freunde 
+ ein und verdienen Sie Boni","Nodig vrienden uit 
+en verdien bonussen","Invitez des amis 
+ et gagnez des bonus","Zaproś znajomych 
+ i zdobywaj bonusy"
+share_main_button,Share Activity,Share,Поделиться,Compartir,Condividi,Teilen,Deel,Partager,Udostępnij
+share_faq,Share Activity,How it works,Как это работает,como funciona,Come funziona,Wie es funktioniert,Hoe het werkt,Comment ça marche,Jak to działa
+share_referral_description,Share Activity,signed up using your link,авторизовались по вашей ссылке,registrado usando su enlace,registrati utilizzando il tuo link,Habe mich über deinen Link angemeldet,aangemeld via jouw link,inscrit en utilisant votre lien,zarejestrowałem się za pomocą Twojego linku
+share_days_description,Share Activity,total number of bonus days,общее количество бонусных дней,número total de días de bonificación,numero totale di giorni bonus,Gesamtzahl der Bonustage,totaal aantal bonusdagen,nombre total de jours bonus,łączna liczba dni premiowych
+share_block_title,Share Activity,"Log in to your account to
+ receive bonuses","Войдите в аккаунт, чтобы
+ получить бонусы","Inicie sesión en su cuenta para 
+ recibir bonos","Accedi al tuo account per 
+ ricevere bonus","Melden Sie sich bei Ihrem Konto an, um Boni zu erhalten","Log in op uw account om
+ bonussen te ontvangen","Connectez-vous à votre compte pour
+ recevoir des bonus","Zaloguj się na swoje konto, aby
+ otrzymać bonusy"
+share_block_description,Share Activity,"They will be credited and will become
+ visible only after logging in","Они будут начислены и станут
+ видимы только после авторизации","Se les acreditará y se volverán visibles 
+ solo después de iniciar sesión.","Verranno accreditati e diventeranno 
+ visibili solo dopo aver effettuato il login",Sie werden gutgeschrieben und sind erst nach der Anmeldung sichtbar,"Ze worden gecrediteerd en worden 
+ pas zichtbaar na het inloggen",Ils seront crédités et deviendront visibles uniquement après connexion.,"Zostaną one zaliczone i staną się 
+ widoczne dopiero po zalogowaniu"
+share_faq_title,Share Activity,How it works,Как это работает,como funciona,Come funziona,Wie es funktioniert,Hoe het werkt,Comment ça marche,Jak to działa
+share_faq_description,Share Activity,Share the referral link and earn bonus days for the %s plan,Поделитесь реферальной ссылкой и получите бонусные дни %s-тарифа,Comparte el enlace de referencia y gana días de bonificación para el plan %s,Condividi il link di riferimento e guadagna giorni bonus per il piano %s,Teilen Sie den Empfehlungslink und verdienen Sie Bonustage für den %s-Plan,Deel de verwijzingslink en verdien bonusdagen voor het %s-abonnement,Partagez le lien de parrainage et gagnez des jours bonus pour le plan %s,Udostępnij link polecający i zdobądź dodatkowe dni w ramach planu %s
+share_faq_content_1_title,Share Activity,What you need to do:,Что делать вам:,Lo que necesitas hacer:,Cosa devi fare:,Was Sie tun müssen:,Wat u moet doen:,Ce que vous devez faire :,Co musisz zrobić:
+share_faq_content_1,Share Activity,"1.	Share the referral link with a friend;
+2.	Wait for your friend to download and log in to the app;
+3.	After that, you'll receive bonus days for the %s plan.","1.	Поделитесь реферальной ссылкой с другом;
+2.	Дождитесь, пока друг скачает и авторизуется в приложении;
+3.	После этого вам начислятся бонусные дни %s-тарифа.","1.	Comparta el enlace de referencia con un amigo;
+2.	Espere a que su amigo descargue e inicie sesión en la aplicación;
+3.	Después de eso, recibirá días de bonificación para el plan %s.","1.	Condividi il link di riferimento con un amico;
+2.	Aspetta che il tuo amico scarichi e acceda all'app;
+3.	Successivamente riceverai giorni bonus per il piano %s.","1.	Teilen Sie den Empfehlungslink mit einem Freund;
+2.	Warten Sie, bis Ihr Freund die App heruntergeladen und sich angemeldet hat;
+3.	Danach erhalten Sie Bonustage für den %s-Tarif.","1.	Deel de verwijzingslink met een vriend;
+2.	Wacht tot uw vriend de app downloadt en inlogt;
+3.	Daarna ontvangt u bonusdagen voor het %s-abonnement.","1.	Partagez le lien de parrainage avec un ami ;
+2.	Attendez que votre ami télécharge et se connecte à l'application ;
+3.	Après cela, vous recevrez des jours bonus pour le plan %s.","1.	Udostępnij link polecający znajomemu;
+2.	Poczekaj, aż znajomy pobierze aplikację i się zaloguje;
+3.	Następnie otrzymasz dni bonusowe w ramach planu %s."
+share_faq_content_2_title,Share Activity,What your friend needs to do:,Что делать другу:,Lo que tu amigo debe hacer:,Cosa deve fare il tuo amico:,Was Ihr Freund tun muss:,Wat je vriend moet doen:,Ce que votre ami doit faire :,Co musi zrobić Twój znajomy:
+share_faq_content_2,Share Activity,"1.	Install the EasyLight VPN app;
+2.	Log in for the first time;
+3.	Done!","1.	Установить приложение EasyLight VPN;
+2.	Авторизоваться впервые;
+3.	Готово!","1.	Instale la aplicación EasyLight VPN;
+2.	Inicie sesión por primera vez;
+3.	¡Listo!","1.	Installa l'app EasyLight VPN;
+2.	Accedi per la prima volta;
+3.	Fatto!","1.	Installieren Sie die EasyLight VPN-App;
+2.	Zum ersten Mal anmelden;
+3.	Fertig!","1.	Installeer de EasyLight VPN-app;
+2.	Log voor de eerste keer in;
+3.	Klaar!","1.	Installez l'application EasyLight VPN ;
+2.	Connectez-vous pour la première fois ;
+3.	Terminé !","1.	Zainstaluj aplikację EasyLight VPN;
+2.	Zaloguj się po raz pierwszy;
+3.	Gotowe!"
+mail_confirm_activity_title,Mail Confirm Activity,Check your email,Проверьте почту,Revisa tu correo electrónico,Controlla la tua email,Überprüfen Sie Ihre E-Mails,Controleer uw e-mail,Vérifiez votre courrier électronique,Sprawdź swój e-mail
+mail_confirm_activity_describe,Mail Confirm Activity,The confirmation link has been sent to,"Ссылка для подтверждения почты 
+ отправлена на",El enlace de confirmación ha sido enviado a,Il link di conferma è stato inviato a,Der Bestätigungslink wurde an gesendet,De bevestigingslink is verzonden naar,Le lien de confirmation a été envoyé à,Link potwierdzający został wysłany na adres
+mail_confirm_on_enter_screen,Mail Confirm Activity,Go to home,На главную,ir a casa,Vai a casa,Geh nach Hause,Ga naar huis,Rentre à la maison,Idź do domu
+report_activity_title,Report Activity,"Report
+ a problem","Сообщить
+о проблеме","Reportar
+ un problema","Segnala
+ un problema","Melde
+ ein Problem","Meld 
+ een probleem","Signaler un problème avec 
+","Zgłoś
+ problem"
+report_activity_mail,Report Activity,Email,Почта,Correo electrónico,E-mail,E-Mail,E-mail,Courriel,E-mail
+report_activity_mail_empty_error,Report Activity,Please enter an email for feedback,Введите почту для обратной связи,Por favor ingrese un correo electrónico para recibir comentarios,Inserisci un'e-mail per il feedback,Bitte geben Sie eine E-Mail-Adresse für Feedback ein,Voer een e-mailadres in voor feedback,Veuillez entrer un e-mail pour obtenir des commentaires,"Wprowadź adres e-mail, aby uzyskać opinię"
+report_activity_mail_exist_error,Report Activity,Invalid email format,Неверный формат почты,Formato de correo electrónico no válido,Formato email non valido,Ungültiges E-Mail-Format,Ongeldig e-mailformaat,Format d'e-mail invalide,Nieprawidłowy format wiadomości e-mail
+report_activity_problem_hint,Report Activity,Please describe your problem in detail,Подробно опишите вашу проблему,Por favor describe tu problema detalladamente,Descrivi il tuo problema in dettaglio,Bitte beschreiben Sie Ihr Problem ausführlich,Beschrijf uw probleem gedetailleerd,Veuillez décrire votre problème en détail,Opisz szczegółowo swój problem
+report_activity_send,Report Activity,Send,Отправить,enviar,Invia,Senden,Verzenden,Envoyer,Wyślij
+report_activity_send_success_title,Report Activity,Request sent,Обращение отправлено,Solicitud enviada,Richiesta inviata,Anfrage gesendet,Verzoek verzonden,Demande envoyée,Zapytanie wysłane
+report_activity_send_success_button,Report Activity,Got it,Понятно,Lo tengo,Capito,Verstanden,Ik heb het,Je l'ai compris,Rozumiem
+report_activity_send_success_description,Report Activity,"Thank you for your message!
+We will contact you at the provided email address shortly.","Спасибо за ваше сообщение!
+Мы свяжемся с вами по указанной почте в ближайшее время.","¡Gracias por su mensaje! 
+ Nos comunicaremos con usted en breve a la dirección de correo electrónico proporcionada.","Grazie per il tuo messaggio!
+Ti contatteremo a breve all'indirizzo email fornito.","Vielen Dank für Ihre Nachricht!
+Wir werden Sie in Kürze unter der angegebenen E-Mail-Adresse kontaktieren.","Bedankt voor uw bericht!
+We nemen binnenkort contact met u op via het opgegeven e-mailadres.","Merci pour votre message !
+Nous vous contacterons sous peu à l'adresse e-mail fournie.","Dziękujemy za wiadomość!
+Wkrótce skontaktujemy się z Tobą na podany adres e-mail."
+authorize_activity_bottom,Authorize Activity,"I agree with the Privacy Policy and the Cookie Policy, and give my consent to the processing of personal data.","Я согласен (-на) с Политикой Конфиденциальности и Политикой cookie, и даю свое согласие на обработку персональных данных.","Acepto la Política de Privacidad y la Política de Cookies, y doy mi consentimiento al tratamiento de datos personales.","Sono d'accordo con la Privacy Policy e la Cookie Policy, e presto il mio consenso al trattamento dei dati personali.",Ich stimme der Datenschutzerklärung und der Cookie-Richtlinie zu und gebe mein Einverständnis zur Verarbeitung personenbezogener Daten.,Ik ga akkoord met het Privacybeleid en het Cookiebeleid en geef toestemming voor de verwerking van persoonsgegevens.,J'accepte la politique de confidentialité et la politique en matière de cookies et donne mon consentement au traitement des données personnelles.,Zgadzam się z Polityką Prywatności i Polityką Cookies oraz wyrażam zgodę na przetwarzanie danych osobowych.
+authorize_activity_policy,Authorize Activity,Privacy Policy,Политикой Конфиденциальности,Política de privacidad,Informativa sulla privacy,Datenschutzrichtlinie,Privacybeleid,Politique de confidentialité,Polityka prywatności
+authorize_activity_agreement,Authorize Activity,Cookie Policy,Политикой cookie,Política de cookies,Politica sui cookie,Cookie-Richtlinie,Cookiebeleid,Politique en matière de cookies,Polityka plików cookie
+authorize_activity_enter,Authorize Activity,Continue,Продолжить,Continuar,Continua,Weiter,Ga door,Continuer,Kontynuuj
+authorize_activity_title,Authorize Activity,Join Easylight!,Присоединяйтесь к Easylight!,¡Únete a EasyLight!,Unisciti a EasyLight!,Treten Sie EasyLight bei!,Sluit je aan bij EasyLight!,Rejoignez EasyLight !,Dołącz do EasyLight!
+profile_activity_title,Profile Activity,Profile,Профиль,Perfil,Profilo,Profil,Profiel,Profil,Profil
+profile_activity_enter_with,Profile Activity,Logged in as,Вы вошли через почту,Iniciado sesión como,Effettuato l'accesso come,Angemeldet als,Aangemeld als,Connecté en tant que,Zalogowany jako
+profile_activity_mail_not_approved,Profile Activity,Account not verified,Аккаунт не подтверждён,Cuenta no verificada,Conto non verificato,Konto nicht verifiziert,Account niet geverifieerd,Compte non vérifié,Konto niezweryfikowane
+profile_activity_enter_by_email,Profile Activity,Log in with email,Вход по почте,Iniciar sesión con correo electrónico,Accedi con l'e-mail,Melden Sie sich mit E-Mail an,Inloggen met e-mail,Connectez-vous avec e-mail,Zaloguj się za pomocą e-maila
+profile_activity_enter_by_google,Profile Activity,Log in with Google Play,Войти через Google Play,Inicia sesión con Google Play,Accedi con Google Play,Melden Sie sich mit Google Play an,Log in met Google Play,Connectez-vous avec Google Play,Zaloguj się w Google Play
+profile_activity_about_app,Profile Activity,About the app,О приложении,Acerca de la aplicación,Informazioni sull'app,Über die App,Over de app,À propos de l'application,O aplikacji
+profile_activity_rate_us,Profile Activity,Rate us,Оцените нас,Califícanos,Valutaci,Bewerten Sie uns,Beoordeel ons,Évaluez-nous,Oceń nas
+profile_activity_report,Profile Activity,Report a problem,Сообщить о проблеме,Informar un problema,Segnala un problema,Melden Sie ein Problem,Meld een probleem,Signaler un problème,Zgłoś problem
+profile_activity_telegram,Profile Activity,We are on Telegram,Мы в Telegram,Estamos en telegrama,Siamo su Telegram,Wir sind auf Telegram,Wij zitten op Telegram,Nous sommes sur Telegram,Jesteśmy na Telegramie
+profile_activity_tariff,Profile Activity,Tariffs,Тарифы,Tarifas,Tariffe,Tarife,Tarieven,Tarifs,Taryfy
+profile_activity_sign_out,Profile Activity,Log out,Выйти из аккаунта,Cerrar sesión,Esci,Abmelden,Uitloggen,Se déconnecter,Wyloguj się
+profile_activity_invalid_email,Profile Activity,Invalid email,Некорректная почта,Correo electrónico no válido,E-mail non valida,Ungültige E-Mail,Ongeldig e-mailadres,E-mail invalide,Nieprawidłowy adres e-mail
+profile_activity_expire_time_preview,Profile Activity,Active until:,Активен до:,Activo hasta:,Attivo fino al:,Aktiv bis:,Actief tot:,Actif jusqu'à :,Aktywny do:
+profile_activity_to_tariffs,Profile Activity,Go to tariffs:,Перейти к тарифам:,Ir a tarifas:,Vai alle tariffe:,Zu den Tarifen:,Ga naar tarieven:,Accédez aux tarifs :,Przejdź do taryf:
+profile_activity_to_premium_offer,Profile Activity,Go to %s,Перейти на %s,Ir a %s,Vai a %s,Gehen Sie zu %s,Ga naar %s,Aller à %s,Przejdź do %s
+profile_activity_to_premium_offer_desc,Profile Activity,"Fast and stable network quality
+without limitations","Быстрое и стабильное качество сети 
+без ограничений","Calidad de red rápida y estable
+sin limitaciones","Qualità di rete veloce e stabile
+senza limitazioni","Schnelle und stabile Netzwerkqualität
+ohne Einschränkungen","Snelle en stabiele netwerkkwaliteit
+zonder beperkingen","Qualité de réseau rapide et stable
+sans limitations","Szybka i stabilna jakość sieci
+bez ograniczeń"
+profile_activity_free_tariff_info,Profile Activity,"After the current plan expires, you will automatically switch to the free Basic plan",По истечении срока действия текущего тарифа вы автоматически перейдете на бесплатный Базовый тариф,"Después de que caduque el plan actual, cambiará automáticamente al plan Básico gratuito","Alla scadenza del piano attuale, passerai automaticamente al piano Basic gratuito",Nach Ablauf des aktuellen Plans wechseln Sie automatisch zum kostenlosen Basic-Plan,"Nadat het huidige abonnement afloopt, stap je automatisch over naar het gratis Basisabonnement","Après l'expiration du forfait actuel, vous passerez automatiquement au forfait Basic gratuit.",Po wygaśnięciu aktualnego planu automatycznie przejdziesz na bezpłatny plan Podstawowy
+profile_activity_routing,Profile Activity,Routing,Исключения,Enrutamiento,Instradamento,Routenführung,Routering,Routage,Trasowanie
+profile_activity_settings,Profile Activity,Settings,Настройки,Configuración,Impostazioni,Einstellungen,Instellingen,Paramètres,Ustawienia
+profile_activity_current_tariff,Profile Activity,Current plan,Текущий тариф,plan actual,Piano attuale,Aktueller Plan,Huidig abonnement,Forfait actuel,Aktualny plan
+profile_activity_tariff_label,Profile Activity,Current plan,Тариф,plan actual,Piano attuale,Aktueller Plan,Huidig abonnement,Forfait actuel,Aktualny plan
+profile_activity_access,Profile Activity,Access,Доступ,Acceso,Accesso,Zugang,Toegang,Accès,Dostęp
+profile_activity_forever_free,Profile Activity,Forever free,Бессрочно,libre para siempre,Per sempre libero,Für immer frei,Voor altijd gratis,Gratuit pour toujours,Zawsze wolny
+profile_activity_prolong_date,Profile Activity,Renews on,Дата продления,Renueva el,Si rinnova,Verlängert sich am,Verlengt aan,Renouvelle le,Odnawia się
+profile_activity_expire_date,Profile Activity,Expires on,Истекает,Expira el,Scade il,Läuft ab am,Verloopt op,Expire le,Wygasa w dniu
+profile_activity_active_until,Profile Activity,Active until,Активен до,Activo hasta,Attivo fino al,Aktiv bis,Actief tot,Actif jusqu'à,Aktywny do
+profile_activity_start_tariff_info,Profile Activity,"When this plan expires, you'll safely roll back to our free Basic plan.",По истечении срока действия текущего тарифа вы автоматически перейдете на бесплатный Базовый тариф.,"Cuando este plan caduque, volverás de forma segura a nuestro plan Básico gratuito.","Alla scadenza del piano, tornerai in tutta sicurezza al nostro piano Basic gratuito.","Wenn dieser Plan abläuft, können Sie sicher zu unserem kostenlosen Basic-Plan zurückkehren.","Wanneer dit abonnement afloopt, kun je veilig terugkeren naar ons gratis Basisabonnement.","À l'expiration de ce forfait, vous reviendrez en toute sécurité à notre forfait de base gratuit.","Kiedy ten plan wygaśnie, bezpiecznie powrócisz do naszego bezpłatnego planu podstawowego."
+profile_activity_tariff_speed,Profile Activity,Speeds,Скорость,Velocidades,Velocità,Geschwindigkeiten,Snelheden,Vitesses,Prędkości
+profile_activity_tariff_speed_info,Profile Activity,up to %d Mbps,до %d Мбит/с,hasta %d Mbps,fino a %dMbps,bis zu %d Mbit/s,tot %d Mbps,jusqu'à %d Mbit/s,do %d Mbps
+profile_activity_device_limit,Profile Activity,Devices,Количество устройств,Dispositivos,Dispositivi,Geräte,Apparaten,Appareils,Urządzenia
+profile_activity_device_limit_unlimit,Profile Activity,Unlimited,Неограничено,Ilimitado,Illimitato,Unbegrenzt,Onbeperkt,Illimité,Nieograniczony
+welcome_activity_telegram,Welcome Activity,"Please try again later and stay tuned for application updates.
+
+Application version:","Попробуйте позже и следите за обновлениями приложения.
+
+ Версия приложения:","Vuelva a intentarlo más tarde y permanezca atento a las actualizaciones de la aplicación.
+
+Aversión de la aplicación:","Riprova più tardi e resta sintonizzato per gli aggiornamenti dell'applicazione.
+
+Versione dell'applicazione:","Bitte versuchen Sie es später noch einmal und bleiben Sie auf dem Laufenden über Anwendungsaktualisierungen.
+
+Anwendungsversion:","Probeer het later opnieuw en houd ons in de gaten voor applicatie-updates.
+
+Applicatieversie:","Veuillez réessayer plus tard et restez à l'écoute des mises à jour de l'application.
+
+Version de l'application :","Spróbuj ponownie później i czekaj na aktualizacje aplikacji.
+
+Awersja aplikacji:"
+welcome_activity_status_default,Welcome Activity,Connecting,Подключение,Conectando,Connessione,Verbinden,Verbinden,Connexion,Łączenie
+welcome_activity_status_prepare,Welcome Activity,Preparing,Подготовка,preparando,Preparazione,Vorbereiten,Voorbereiden,Préparation,Przygotowanie
+welcome_activity_status_auth,Welcome Activity,Authorization,Авторизация,Autorización,Autorizzazione,Autorisierung,Autorisatie,Autorisation,Autoryzacja
+welcome_activity_status_auth_complete,Welcome Activity,Authorization completed,Авторизация завершена,Autorización completada,Autorizzazione completata,Autorisierung abgeschlossen,Autorisatie voltooid,Autorisation complétée,Autoryzacja zakończona
+welcome_activity_status_auth_skipped,Welcome Activity,Authorization skipped,Авторизация пропущена,Autorización omitida,Autorizzazione saltata,Autorisierung übersprungen,Autorisatie overgeslagen,Autorisation ignorée,Autoryzacja pominięta
+welcome_activity_status_auth_failed,Welcome Activity,Authorization failed…,Авторизация провалена…,La autorización falló...,Autorizzazione non riuscita...,Autorisierung fehlgeschlagen…,Autorisatie mislukt…,L’autorisation a échoué…,Autoryzacja nie powiodła się…
+welcome_activity_status_auth_retrying,Welcome Activity,Retrying authorization…,Авторизуемся ещё раз…,Reintentando autorización…,Nuovo tentativo di autorizzazione…,Autorisierung wird erneut versucht…,Autorisatie opnieuw proberen…,Nouvelle tentative d'autorisation…,Ponawiam autoryzację…
+welcome_activity_status_auth_retrying1,Welcome Activity,Still authorizing…,Настраиваем маршрут…,Todavía autorizando...,Ancora autorizzando...,Immer noch genehmigend…,Nog steeds autoriseren...,Toujours autorisant…,Nadal autoryzuję…
+welcome_activity_status_auth_retrying2,Welcome Activity,Preparing secure authorization…,Готовим защищённую авторизацию…,Preparando autorización segura...,Preparazione dell'autorizzazione sicura…,Sichere Autorisierung vorbereiten…,Veilige autorisatie voorbereiden…,Préparer une autorisation sécurisée…,Przygotowuję bezpieczną autoryzację…
+welcome_activity_status_getting_servers,Welcome Activity,Getting servers,Получение серверов,Obteniendo servidores,Ottenere i server,Server bekommen,Servers verkrijgen,Obtenir des serveurs,Pobieranie serwerów
+welcome_activity_status_getting_servers_complete,Welcome Activity,Servers retrieved,Получение серверов завершено,Servidores recuperados,Server recuperati,Server abgerufen,Servers opgehaald,Serveurs récupérés,Serwery odzyskane
+welcome_activity_status_getting_servers_skipped,Welcome Activity,Getting servers skipped,Получение серверов пропущено,Obtener servidores omitidos,Ottenere i server saltati,Server werden übersprungen,Servers worden overgeslagen,Faire ignorer les serveurs,Pomijanie serwerów
+welcome_activity_status_getting_servers_failed,Welcome Activity,Failed to get servers,Получение серверов провалено,No se pudieron obtener los servidores,Impossibile ottenere i server,Server konnten nicht abgerufen werden,Kan servers niet ophalen,Impossible d'obtenir les serveurs,Nie udało się pobrać serwerów
+welcome_activity_status_unsupported_version,Welcome Activity,The version is not supported,Версия не поддерживается,La versión no es compatible.,La versione non è supportata,Die Version wird nicht unterstützt,De versie wordt niet ondersteund,La version n'est pas prise en charge,Wersja nie jest obsługiwana
+welcome_activity_status_payment,Welcome Activity,Processing payment,Проведение платежа,Procesando pago,Elaborazione del pagamento,Zahlungsabwicklung,Betaling verwerken,Traitement du paiement,Przetwarzanie płatności
+welcome_activity_status_payment_complete,Welcome Activity,Payment completed,Проведение платежа завершено,Pago completado,Pagamento completato,Zahlung abgeschlossen,Betaling voltooid,Paiement effectué,Płatność zakończona
+welcome_activity_status_payment_failed,Welcome Activity,Payment failed,Проведение платежа провалено,Pago fallido,Pagamento non riuscito,Die Zahlung ist fehlgeschlagen,Betaling mislukt,Échec du paiement,Płatność nie powiodła się
+rate_us_first_title,Rate us view,Do you like Easylight VPN?,Вам нравится EasyLight VPN?,¿Te gusta EasyLight VPN?,Ti piace EasyLight VPN?,Gefällt Ihnen EasyLight VPN?,Vind je EasyLight VPN leuk?,Aimez-vous EasyLight VPN ?,Czy podoba Ci się EasyLight VPN?
+rate_us_first_description,Rate us view,"Your assessment will help make
+the application better","Ваша оценка поможет сделать
+приложение лучше","Su evaluación ayudará a mejorar la aplicación 
+.","La tua valutazione aiuterà a migliorare l'applicazione
+","Ihre Einschätzung wird dazu beitragen, die Anwendung zu verbessern","Uw beoordeling zal 
+de toepassing helpen verbeteren","Votre évaluation contribuera à améliorer l'application 
+.","Twoja ocena pomoże ulepszyć aplikację 
+"
+rate_us_bad_rate_cd,Rate us view,Bad rate,Плохая оценка,Mala tarifa,Cattiva tariffa,Schlechter Tarif,Slecht tarief,Mauvais taux,Zła stawka
+rate_us_good_rate_cd,Rate us view,Good rate,Хорошая оценка,Buen precio,Buon prezzo,Guter Preis,Goed tarief,Bon tarif,Dobra stawka
+rate_us_second_title,Rate us view,Review of the application,Отзыв о приложении,Revisión de la solicitud.,Revisione della domanda,Überprüfung des Antrags,Beoordeling van de aanvraag,Examen de la candidature,Recenzja aplikacji
+rate_us_second_hint,Rate us view,"Tell us what you dont like
+in the application","Расскажите что вам не нравится
+в приложении","Cuéntanos qué no te gusta
+en la aplicación","Dicci cosa non ti piace
+nell'applicazione","Teilen Sie uns in der Bewerbung mit, was Ihnen nicht gefällt
+","Vertel ons wat je niet leuk vindt
+in de applicatie","Dites-nous ce que vous n'aimez pas
+dans l'application","Powiedz nam, co Ci się nie podoba
+w aplikacji"
+rate_us_second_error,Rate us view,Too short review,Слишком короткий отзыв,reseña demasiado corta,Recensione troppo breve,Zu kurze Rezension,Te korte recensie,Revue trop courte,Zbyt krótka recenzja
+rate_us_second_button,Rate us view,Send,Отправить,enviar,Invia,Senden,Verzenden,Envoyer,Wyślij
+rate_us_third_title,Rate us view,Thanks for the review,Спасибо за отзыв,Gracias por la reseña,Grazie per la recensione,Vielen Dank für die Bewertung,Bedankt voor de recensie,Merci pour la revue,Dziękujemy za recenzję
+rate_us_third_description,Rate us view,"We always take into account your wishes
+in new versions","Мы всегда учитываем ваши
+пожелания в новых версиях","Siempre tenemos en cuenta tus deseos
+en nuevas versiones","Teniamo sempre conto dei tuoi desideri
+nelle nuove versioni","Bei neuen Versionen berücksichtigen wir stets Ihre Wünsche
+","Bij nieuwe versies houden wij altijd rekening met uw wensen
+","Nous prenons toujours en compte vos souhaits
+dans les nouvelles versions","Zawsze uwzględniamy Twoje życzenia
+w nowych wersjach"
+rate_us_third_button,Rate us view,Ok,Здорово,Ok,Ok,Ok,Oké,D'accord,OK
+welcome_activity_privacy_title,Privacy policy,Your anonymity matters!,Ваша анонимность важна!,¡Tu anonimato importa!,Il tuo anonimato è importante!,Ihre Anonymität zählt!,Uw anonimiteit is belangrijk!,Votre anonymat compte !,Twoja anonimowość ma znaczenie!
+welcome_activity_privacy_continue,Privacy policy,Agree and continue,Согласиться и продолжить,Aceptar y continuar,Accetta e continua,Zustimmen und fortfahren,Akkoord en doorgaan,Accepter et continuer,Zgadzam się i kontynuuj
+welcome_activity_privacy1,Privacy policy,"We collect only the minimum necessary data to ensure a stable VPN connection and maintain a high standard of quality, such as:","Мы собираем только минимально необходимый набор данных, для обеспечения стабильного VPN подключения и поддержки высокого стандарта качества, например:","Recopilamos solo los datos mínimos necesarios para garantizar una conexión VPN estable y mantener un alto estándar de calidad, como por ejemplo:","Raccogliamo solo i dati minimi necessari per garantire una connessione VPN stabile e mantenere un elevato standard di qualità, come ad esempio:","Wir erfassen nur die minimal notwendigen Daten, um eine stabile VPN-Verbindung zu gewährleisten und einen hohen Qualitätsstandard aufrechtzuerhalten, wie zum Beispiel:","We verzamelen alleen de minimaal noodzakelijke gegevens om een stabiele VPN-verbinding te garanderen en een hoge kwaliteitsstandaard te handhaven, zoals:","Nous collectons uniquement le minimum de données nécessaires pour garantir une connexion VPN stable et maintenir un haut niveau de qualité, telles que :","Zbieramy tylko minimum niezbędnych danych, aby zapewnić stabilne połączenie VPN i zachować wysoki standard jakości, takie jak:"
+welcome_activity_privacy2,Privacy policy,"Device information, such as OS version, device model to optimize network connection;","Информация об устройстве, такая как версия ОС, модель устройства для оптимизации сетевого подключения;","Información del dispositivo, como la versión del sistema operativo, el modelo del dispositivo para optimizar la conexión de red;","Informazioni sul dispositivo, come versione del sistema operativo, modello del dispositivo per ottimizzare la connessione di rete;","Geräteinformationen wie Betriebssystemversion, Gerätemodell zur Optimierung der Netzwerkverbindung;","Apparaatinformatie, zoals besturingssysteemversie, apparaatmodel om de netwerkverbinding te optimaliseren;","Informations sur l'appareil, telles que la version du système d'exploitation, le modèle de l'appareil pour optimiser la connexion réseau ;","Informacje o urządzeniu, takie jak wersja systemu operacyjnego, model urządzenia w celu optymalizacji połączenia sieciowego;"
+welcome_activity_privacy3,Privacy policy,"Crash reports to improve app stability, this is anonymous aggregated data like build version, crash date, and time;","Отчеты о сбоях для повышения стабильности приложения, это анонимные агрегированные данные, такие как версия сборки, дата и время сбоя;","Informes de fallos para mejorar la estabilidad de la aplicación; se trata de datos agregados anónimos, como la versión de compilación, la fecha y la hora del fallo;","Rapporti sugli arresti anomali per migliorare la stabilità dell'app, si tratta di dati aggregati anonimi come versione di build, data e ora dell'arresto anomalo;","Absturzberichte zur Verbesserung der App-Stabilität. Hierbei handelt es sich um anonyme aggregierte Daten wie Build-Version, Absturzdatum und -uhrzeit.","Crashrapporten om de app-stabiliteit te verbeteren. Dit zijn anonieme verzamelde gegevens zoals buildversie, crashdatum en tijd;","Rapports de crash pour améliorer la stabilité de l'application. Il s'agit de données agrégées anonymes telles que la version de build, la date et l'heure du crash ;","Raporty o awariach w celu poprawy stabilności aplikacji. Są to anonimowe dane zagregowane, takie jak wersja kompilacji, data i godzina awarii;"
+welcome_activity_privacy4,Privacy policy,An optional email address if you want to use the paid plan.,"Необязательный адрес электронной почты, если вы хотите использовать платный тариф.",Una dirección de correo electrónico opcional si desea utilizar el plan pago.,Un indirizzo email opzionale se desideri utilizzare il piano a pagamento.,"Eine optionale E-Mail-Adresse, wenn Sie den kostenpflichtigen Plan nutzen möchten.",Een optioneel e-mailadres als u het betaalde abonnement wilt gebruiken.,Une adresse email facultative si vous souhaitez utiliser le forfait payant.,"Opcjonalny adres e-mail, jeśli chcesz korzystać z płatnego planu."
+welcome_activity_privacy5,Privacy policy,Please read our Privacy Policy and Cookie Policy for more detailed information on the data we collect and how it's used.,Ознакомитесь с нашей Политикой Конфиденциальности и Политикой cookie для получения более подробной информации о данных и способах их использования.,Lea nuestra Política de privacidad y Política de cookies para obtener información más detallada sobre los datos que recopilamos y cómo se utilizan.,Si prega di leggere la nostra Informativa sulla privacy e la Politica sui cookie per informazioni più dettagliate sui dati che raccogliamo e su come vengono utilizzati.,Bitte lesen Sie unsere Datenschutzrichtlinie und Cookie-Richtlinie für detailliertere Informationen zu den von uns erfassten Daten und deren Verwendung.,Lees ons Privacybeleid en Cookiebeleid voor meer gedetailleerde informatie over de gegevens die we verzamelen en hoe deze worden gebruikt.,Veuillez lire notre politique de confidentialité et notre politique en matière de cookies pour des informations plus détaillées sur les données que nous collectons et comment elles sont utilisées.,"Prosimy zapoznać się z naszą Polityką prywatności i Polityką dotyczącą plików cookie, aby uzyskać bardziej szczegółowe informacje na temat gromadzonych przez nas danych i sposobu ich wykorzystania."
+welcome_activity_privacy5_link,Privacy policy,Privacy Policy,Политикой Конфиденциальности,Política de privacidad,Informativa sulla privacy,Datenschutzrichtlinie,Privacybeleid,Politique de confidentialité,Polityka prywatności
+welcome_activity_privacy5_link2,Privacy policy,Cookie Policy,Политикой cookie,Política de cookies,Politica sui cookie,Cookie-Richtlinie,Cookiebeleid,Politique en matière de cookies,Polityka plików cookie
+main_activity_connect,Main Activity,Connect,Подключиться,Conectar,Connettiti,Verbinden,Verbinden,Se connecter,Połącz
+main_activity_preparing,Main Activity,Preparing…,Подготовка…,Preparando…,Preparazione…,Vorbereiten…,Voorbereiden…,Préparation…,Przygotowanie…
+main_activity_preparing_complete,Main Activity,Preparation complete,Подготовка завершена,Preparación completa,Preparazione completata,Vorbereitung abgeschlossen,Voorbereiding voltooid,Préparation terminée,Przygotowanie zakończone
+main_activity_preparing_skipped,Main Activity,Preparation skipped,Подготовка пропущена,Preparación omitida,La preparazione è saltata,Vorbereitung übersprungen,Voorbereiding overgeslagen,Préparation ignorée,Przygotowanie pominięte
+main_activity_preparing_failed,Main Activity,Preparation failed,Подготовка провалена,La preparación falló,La preparazione è fallita,Die Vorbereitung ist fehlgeschlagen,De voorbereiding is mislukt,La préparation a échoué,Przygotowanie nie powiodło się
+main_activity_connection,Main Activity,Connecting…,Подключение…,Conectando…,Connessione…,Verbinden…,Verbinden…,Connexion…,Łączę…
+main_activity_connected,Main Activity,Connected,Подключено,Conectado,Connesso,Verbunden,Verbonden,Connecté,Połączono
+main_activity_cancel,Main Activity,Cancel,Отмена,Cancelar,Annulla,Abbrechen,Annuleer,Annuler,Anuluj
+main_activity_speed,Main Activity,up to %s Mb,до %s Mb,hasta %s Mb,fino a %s Mb,bis zu %s Mb,tot %s Mb,jusqu'à %s Mo,do %s Mb
+main_activity_unsafe_connection,Main Activity,Not connected,Не подключено,No conectado,Non connesso,Nicht verbunden,Niet verbonden,Non connecté,Nie podłączony
+main_activity_safe_connection,Main Activity,Connection secured,Соединение защищено,Conexión asegurada,Connessione protetta,Verbindung gesichert,Verbinding beveiligd,Connexion sécurisée,Połączenie zabezpieczone
+main_activity_to_premium_offer,Main Activity,Go to %s,Перейти на %s,Ir a %s,Vai a %s,Gehen Sie zu %s,Ga naar %s,Aller à %s,Przejdź do %s
+main_activity_timer_example,Main Activity,0:12:01,0:12:01,0:12:01,0:12:01,0:12:01,0:12:01,0:12:01,0:12:01
+main_activity_bad_connection,Main Activity,Poor connection detected,Обнаруженно плохое соединение,Mala conexión detectada,Rilevata connessione scadente,Schlechte Verbindung erkannt,Slechte verbinding gedetecteerd,Mauvaise connexion détectée,Wykryto słabe połączenie
+routing_activity_title,Routing Activity,Routing,Исключения,Enrutamiento,Instradamento,Routenführung,Routering,Routage,Trasowanie
+routing_activity_desc,Routing Activity,"Routing — services and websites that should be accessed outside the VPN tunnel, even when the VPN is enabled. This is useful if your real IP address is required.
+Changes are applied after restart.","Исключения — сервисы и сайты, к которым необходимо подключаться без VPN, даже когда он включён: это полезно, если требуется ваш настоящий IP-адрес.
+Изменения применятся после перезапуска.","Enrutamiento: servicios y sitios web a los que se debe acceder fuera del túnel VPN, incluso cuando la VPN está habilitada. Esto es útil si se requiere su dirección IP real.
+Los cambios se aplican después del reinicio.","Routing: servizi e siti Web a cui è necessario accedere all'esterno del tunnel VPN, anche quando la VPN è abilitata. Ciò è utile se è richiesto il tuo indirizzo IP reale.
+Le modifiche vengono applicate dopo il riavvio.","Routing – Dienste und Websites, auf die außerhalb des VPN-Tunnels zugegriffen werden sollte, auch wenn das VPN aktiviert ist. Dies ist nützlich, wenn Ihre echte IP-Adresse erforderlich ist.
+Änderungen werden nach dem Neustart übernommen.","Routering: services en websites die toegankelijk moeten zijn buiten de VPN-tunnel, zelfs als de VPN is ingeschakeld. Dit is handig als uw echte IP-adres vereist is.
+Wijzigingen worden toegepast na het opnieuw opstarten.","Routage : services et sites Web auxquels il convient d'accéder en dehors du tunnel VPN, même lorsque le VPN est activé. Ceci est utile si votre véritable adresse IP est requise. 
+Les modifications sont appliquées après le redémarrage.","Routing — usługi i strony internetowe, do których należy uzyskać dostęp poza tunelem VPN, nawet jeśli VPN jest włączony. Jest to przydatne, jeśli wymagany jest Twój prawdziwy adres IP.
+Zmiany zostaną zastosowane po ponownym uruchomieniu."
+routing_activity_enabled,Routing Activity,Use exclusions,Использовать исключения,Usar exclusiones,Utilizza le esclusioni,Verwenden Sie Ausschlüsse,Gebruik uitsluitingen,Utiliser les exclusions,Stosuj wykluczenia
+routing_activity_apps_button,Routing Activity,Apps,Приложения,Aplicaciones,App,Apps,Apps,Applications,Aplikacje
+routing_activity_links_button,Routing Activity,Urls,Ссылки,URL,URL,URLs,URL's,URL,Adresy URL
+routing_activity_remove,Routing Activity,Remove,Удалить,Quitar,Rimuovi,Entfernen,Verwijderen,Supprimer,Usuń
+routing_activity_add,Routing Activity,Add,Добавить,Añadir,Aggiungi,Hinzufügen,Toevoegen,Ajouter,Dodaj
+routing_activity_example,Routing Activity,google.com,mail.ru,google.com,google.com,google.com,google.com,google.com,google.com
+routing_activity_input_hint,Routing Activity,URL-address,URL-адрес сайта,dirección URL,Indirizzo URL,URL-Adresse,URL-adres,Adresse URL,Adres URL
+settings_activity_title,Settings Activity,Settings,Настройки,Configuración,Impostazioni,Einstellungen,Instellingen,Paramètres,Ustawienia
+settings_activity_battery_success,Settings Activity,Permission granted for background use.,Разрешение на использование приложения в фоновом режиме уже получено.,Permiso concedido para uso en segundo plano.,Autorizzazione concessa per l'uso in background.,Erlaubnis zur Hintergrundnutzung erteilt.,Toestemming verleend voor achtergrondgebruik.,Autorisation accordée pour une utilisation en arrière-plan.,Zezwolenie udzielone na użycie w tle.
+settings_activity_update_unavailable,Settings Activity,"The update is already out, but it may appear for you a little later.","Обновление уже вышло, но может появиться у вас чуть позже.","La actualización ya está disponible, pero es posible que aparezca un poco más tarde.","L'aggiornamento è già disponibile, ma potrebbe apparire un po' più tardi.","Das Update ist bereits verfügbar, erscheint aber möglicherweise etwas später für Sie.","De update is al uit, maar het kan zijn dat deze iets later voor je verschijnt.","La mise à jour est déjà disponible, mais elle pourrait apparaître un peu plus tard.","Aktualizacja jest już dostępna, ale może pojawić się nieco później."
+settings_activity_update_unavailable_message,Settings Activity,"The update is already out, but it may appear for you a little later. Open Google Play or try again later.","Обновление уже вышло, но может появиться у вас чуть позже. Откройте Google Play или попробуйте позже.","La actualización ya está disponible, pero es posible que aparezca un poco más tarde. Abre Google Play o vuelve a intentarlo más tarde.","L'aggiornamento è già disponibile, ma potrebbe apparire un po' più tardi. Apri Google Play o riprova più tardi.","Das Update ist bereits verfügbar, erscheint aber möglicherweise etwas später für Sie. Öffnen Sie Google Play oder versuchen Sie es später noch einmal.","De update is al uit, maar het kan zijn dat deze iets later voor je verschijnt. Open Google Play of probeer het later opnieuw.","La mise à jour est déjà disponible, mais elle pourrait apparaître un peu plus tard. Ouvrez Google Play ou réessayez plus tard.","Aktualizacja jest już dostępna, ale może pojawić się nieco później. Otwórz Google Play lub spróbuj ponownie później."
+settings_activity_update_unavailable_title,Settings Activity,Update not available yet.,Обновление пока недоступно.,Actualización aún no disponible.,Aggiornamento non ancora disponibile.,Update noch nicht verfügbar.,Update nog niet beschikbaar.,Mise à jour pas encore disponible.,Aktualizacja nie jest jeszcze dostępna.
+settings_activity_update_unavailable_google_play,Settings Activity,Google Play,Открыть Google Play,Google Play,Google Play,Google Play,Google Play,Google Play,Google Play
+settings_activity_update_unavailable_exit,Settings Activity,Got it,Понятно,Lo tengo,Capito,Verstanden,Ik heb het,Je l'ai compris,Rozumiem
+settings_activity_copied,Settings Activity,Copied,Скопировано,Copiado,Copiato,Kopiert,Gekopieerd,Copié,Skopiowano
+user_activity_title,User Activity,Account details,Учётная запись,Detalles de la cuenta,Dettagli del conto,Kontodaten,Accountgegevens,Détails du compte,Szczegóły konta
+user_activity_email,User Activity,Email,Почта,Correo electrónico,E-mail,E-Mail,E-mail,Courriel,E-mail
+user_activity_tariff,User Activity,Current plan,Тариф,plan actual,Piano attuale,Aktueller Plan,Huidig abonnement,Forfait actuel,Aktualny plan
+user_activity_prolong_date,User Activity,Renews on,Дата продления,Renueva el,Si rinnova,Verlängert sich am,Verlengt aan,Renouvelle le,Odnawia się
+user_activity_expire_date,User Activity,Active until,Активен до,Activo hasta,Attivo fino al,Aktiv bis,Actief tot,Actif jusqu'à,Aktywny do
+server_activity_title,Servers Activity,Locations,Локации,Ubicaciones,Posizioni,Standorte,Locaties,Emplacements,Lokalizacje
+server_activity_connected_server,Servers Activity,Fast connect,Быстрое подключение,Conexión rápida,Connessione veloce,Schnelle Verbindung,Snel verbinden,Connexion rapide,Szybkie połączenie
+server_activity_selected_server,Servers Activity,Selected location,Выбранная локация,Ubicación seleccionada,Località selezionata,Ausgewählter Ort,Geselecteerde locatie,Emplacement sélectionné,Wybrana lokalizacja
+server_activity_fastest_server,Servers Activity,Fastest server,Самый быстрый сервер,Servidor más rápido,Server più veloce,Schnellster Server,Snelste server,Serveur le plus rapide,Najszybszy serwer
+server_activity_available_server,Servers Activity,Available locations,Доступные локации,Ubicaciones disponibles,Posizioni disponibili,Verfügbare Standorte,Beschikbare locaties,Emplacements disponibles,Dostępne lokalizacje
+server_activity_other_server,Servers Activity,All locations,Все локации,Todas las ubicaciones,Tutte le località,Alle Standorte,Alle locaties,Tous les emplacements,Wszystkie lokalizacje
+server_activity_country_sample,Servers Activity,Russia,Россия,Rusia,Russia,Russland,Rusland,Russie,Rosja
+server_activity_offer_title,Servers Activity,All locations with %s,Все локации на %s,Todas las ubicaciones con %s,Tutte le località con %s,Alle Standorte mit %s,Alle locaties met %s,Tous les emplacements avec %s,Wszystkie lokalizacje z %s
+server_activity_offer_description,Servers Activity,"Unlimited access to locations
+around the world","Доступ к локациям по всему
+миру без ограничений","Acceso ilimitado a ubicaciones
+en todo el mundo","Accesso illimitato alle località
+in tutto il mondo","Unbegrenzter Zugriff auf Standorte
+auf der ganzen Welt","Onbeperkte toegang tot locaties
+ over de hele wereld","Accès illimité aux emplacements
+dans le monde entier","Nieograniczony dostęp do lokalizacji
+ana całym świecie"
+server_activity_offer_button,Servers Activity,Upgrade,Перейти,Actualizar,Aggiorna,Upgrade,Upgraden,Mise à niveau,Uaktualnij
+tariff_activity_title,Tariff Activity,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight,EasyLight
+tariff_offer_title,Tariff Activity,Personal offer,Персональное предложение,oferta personal,Offerta personale,Persönliches Angebot,Persoonlijk aanbod,Offre personnelle,Oferta osobista
+tariff_offer_subtitle,Tariff Activity,"More than 1 million users choose us
+for fast and unrestricted internet","Больше 1 млн пользователей выбирают нас
+для быстрого и свободного интернета","Más de 1 millón de usuarios nos eligen
+para Internet rápido y sin restricciones","Più di 1 milione di utenti ci scelgono
+per Internet veloce e senza restrizioni","Mehr als 1 Million Nutzer entscheiden sich für uns
+für schnelles und uneingeschränktes Internet","Ruim 1 miljoen gebruikers kiezen voor ons
+voor snel en onbeperkt internet","Plus d'un million d'utilisateurs nous choisissent
+pour un accès Internet rapide et sans restriction","Ponad 1 milion użytkowników wybiera nas
+, aby uzyskać szybki i nieograniczony internet"
+tariff_offer_time_left,Tariff Activity,Offer ends in:,До конца акции:,La oferta termina en:,L'offerta termina tra:,Das Angebot endet am:,Aanbieding eindigt over:,L'offre se termine dans :,Oferta kończy się za:
+tariff_offer_timer_hours,Tariff Activity,HOURS,ЧАСЫ,HORAS,ORE,STUNDEN,UREN,HEURES,GODZINY
+tariff_offer_timer_minutes,Tariff Activity,MINUTES,МИНУТЫ,MINUTOS,MINUTI,MINUTEN,MINUTEN,PROCÈS-VERBAL,MINUT
+tariff_offer_timer_seconds,Tariff Activity,SECONDS,СЕКУНДЫ,SEGUNDOS,SECONDI,SEKUNDEN,SECONDEN,SECONDES,SEKUND
+tariff_subscription_from_date,Tariff Activity,from %s,с %s,de %s,da %s,von %s,van %s,à partir de %s,z %s
+tariff_subscription_starts_date,Tariff Activity,Starts %s,с %s,Inicia %s,Avvia %s,Startet %s,Start %s,Démarre %s,Rozpoczyna się od %s
+tariff_subscription_expires_date,Tariff Activity,Expires %s,Истекает %s,Vence %s,Scade %s,Läuft ab %s,Verloopt op %s,Expire %s,Wygasa %s
+tariff_state_start_regular,Tariff Activity,Your remaining Start days will roll over to your Gold plan. Auto-renewing subscription. Cancel anytime in Google Play settings.,Оставшиеся дни тарифа Старт будут добавлены к Gold. Это автоматически продлеваемая подписка. Отмена в любой момент в настройках Google Play.,Los días de inicio restantes se transferirán a su plan Gold. Suscripción de renovación automática. Cancela en cualquier momento en la configuración de Google Play.,I giorni di inizio rimanenti verranno trasferiti al tuo piano Gold. Abbonamento con rinnovo automatico. Annulla in qualsiasi momento nelle impostazioni di Google Play.,Ihre verbleibenden Starttage werden auf Ihren Gold-Plan übertragen. Abonnement mit automatischer Verlängerung. In den Google Play-Einstellungen können Sie jederzeit kündigen.,Uw resterende Startdagen worden meegenomen naar uw Gold-abonnement. Abonnement automatisch verlengen. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.,Vos jours de démarrage restants seront transférés sur votre forfait Gold. Abonnement à renouvellement automatique. Annulez à tout moment dans les paramètres de Google Play.,Pozostałe dni Start zostaną przeniesione do Twojego planu Gold. Automatyczne odnawianie subskrypcji. Anuluj w dowolnym momencie w ustawieniach Google Play.
+tariff_state_start_discount,Tariff Activity,"%1$s for your first month, then %2$s/mo. Any remaining Start days will roll over to Gold. Cancel anytime in Google Play settings.","%1$s за первый месяц, затем %2$s в месяц. Оставшиеся дни Старт будут добавлены к Gold. Отмена в любой момент в настройках Google Play.","%1$s durante el primer mes, luego %2$s/mes. Cualquier día de inicio restante se transferirá a Gold. Cancela en cualquier momento en la configuración de Google Play.","%1$s per il primo mese, poi %2$s/mese. Eventuali giorni di inizio rimanenti verranno trasferiti al livello Gold. Annulla in qualsiasi momento nelle impostazioni di Google Play.","%1$s für Ihren ersten Monat, dann %2$s/Monat. Alle verbleibenden Starttage werden auf Gold übertragen. In den Google Play-Einstellungen können Sie jederzeit kündigen.","%1$s voor uw eerste maand, daarna %2$s/maand. Eventuele resterende Startdagen worden overgedragen naar Gold. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.","%1$s pour votre premier mois, puis %2$s/mois. Tous les jours de début restants seront transférés vers Gold. Annulez à tout moment dans les paramètres de Google Play.","%1$s przez pierwszy miesiąc, następnie %2$s/mies. Wszelkie pozostałe dni Startu zostaną przeniesione do planu Gold. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_state_basic_regular,Tariff Activity,Auto-renewing subscription. Cancel anytime in Google Play settings.,Это автоматически продлеваемая подписка. Отмена в любой момент в настройках Google Play.,Suscripción de renovación automática. Cancela en cualquier momento en la configuración de Google Play.,Abbonamento con rinnovo automatico. Annulla in qualsiasi momento nelle impostazioni di Google Play.,Abonnement mit automatischer Verlängerung. In den Google Play-Einstellungen können Sie jederzeit kündigen.,Abonnement automatisch verlengen. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.,Abonnement à renouvellement automatique. Annulez à tout moment dans les paramètres de Google Play.,Automatyczne odnawianie subskrypcji. Anuluj w dowolnym momencie w ustawieniach Google Play.
+tariff_state_basic_discount,Tariff Activity,"%1$s for your first month, then %2$s/mo. Cancel anytime in Google Play settings.","%1$s за первый месяц, затем %2$s в месяц. Отмена в любой момент в настройках Google Play.","%1$s durante el primer mes, luego %2$s/mes. Cancela en cualquier momento en la configuración de Google Play.","%1$s per il primo mese, poi %2$s/mese. Annulla in qualsiasi momento nelle impostazioni di Google Play.","%1$s für Ihren ersten Monat, dann %2$s/Monat. In den Google Play-Einstellungen können Sie jederzeit kündigen.","%1$s voor uw eerste maand, daarna %2$s/maand. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.","%1$s pour votre premier mois, puis %2$s/mois. Annulez à tout moment dans les paramètres de Google Play.","%1$s przez pierwszy miesiąc, następnie %2$s/mies. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_state_gold_external,Tariff Activity,Your remaining paid time is safe. Resubscribe now to keep Gold. Cancel anytime in Google Play settings.,"Ваши текущие оплаченные дни будут сохранены. Оформите подписку, чтобы сохранить Gold. Отмена в любой момент в настройках Google Play.",El tiempo pagado restante está seguro. Vuelve a suscribirte ahora para conservar Gold. Cancela en cualquier momento en la configuración de Google Play.,Il tuo tempo retribuito rimanente è al sicuro. Abbonati nuovamente ora per mantenere Gold. Annulla in qualsiasi momento nelle impostazioni di Google Play.,"Ihre verbleibende bezahlte Zeit ist sicher. Melden Sie sich jetzt erneut an, um Gold zu behalten. In den Google Play-Einstellungen können Sie jederzeit kündigen.",Uw resterende betaalde tijd is veilig. Schrijf u nu opnieuw in om Gold te behouden. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.,Votre temps payé restant est en sécurité. Réabonnez-vous maintenant pour conserver Gold. Annulez à tout moment dans les paramètres de Google Play.,"Pozostały płatny czas jest bezpieczny. Zarejestruj się ponownie, aby zachować Gold. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_state_gold_subscribed,Tariff Activity,Auto-renewal is active. Cancel anytime in Google Play settings. Manage subscriptions.,Автопродление включено. Отмена в любой момент в настройках Google Play.,La renovación automática está activa. Cancela en cualquier momento en la configuración de Google Play. Gestionar suscripciones.,Il rinnovo automatico è attivo. Annulla in qualsiasi momento nelle impostazioni di Google Play. Gestisci gli abbonamenti.,Die automatische Verlängerung ist aktiv. In den Google Play-Einstellungen können Sie jederzeit kündigen. Abonnements verwalten.,Automatische verlenging is actief. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen. Beheer abonnementen.,Le renouvellement automatique est actif. Annulez à tout moment dans les paramètres de Google Play. Gérer les abonnements.,Automatyczne odnawianie jest aktywne. Anuluj w dowolnym momencie w ustawieniach Google Play. Zarządzaj subskrypcjami.
+tariff_state_gold_was_subscribed,Tariff Activity,"Auto-renewal is off. Gold is active until %1$s. After that, you'll roll back to the Basic plan. Renew your subscription to keep Gold. Cancel anytime in Google Play settings.","Автопродление выключено. Gold действует до %1$s. После этой даты тариф изменится на Базовый. Возобновите подписку, чтобы сохранить Gold. Отмена в любой момент в настройках Google Play.","La renovación automática está desactivada. Gold está activo hasta %1$s. Después de eso, volverás al plan Básico. Renueva tu suscripción para conservar Gold. Cancela en cualquier momento en la configuración de Google Play.",Il rinnovo automatico è disattivato. Gold è attivo fino al %1$s. Successivamente tornerai al piano Basic. Rinnova il tuo abbonamento per mantenere Gold. Annulla in qualsiasi momento nelle impostazioni di Google Play.,"Die automatische Verlängerung ist deaktiviert. Gold ist bis %1$s aktiv. Danach kehren Sie zum Basisplan zurück. Erneuern Sie Ihr Abonnement, um Gold zu behalten. In den Google Play-Einstellungen können Sie jederzeit kündigen.",Automatische verlenging staat uit. Gold is actief tot %1$s. Daarna keert u terug naar het basisabonnement. Verleng uw abonnement om Gold te behouden. Je kunt op elk gewenst moment opzeggen via de Google Play-instellingen.,"Le renouvellement automatique est désactivé. Gold est actif jusqu'à %1$s. Après cela, vous reviendrez au forfait Basic. Renouvelez votre abonnement pour conserver Gold. Annulez à tout moment dans les paramètres de Google Play.","Automatyczne odnawianie jest wyłączone. Gold jest aktywny do %1$s. Następnie powrócisz do planu podstawowego. Odnów subskrypcję, aby zachować Gold. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_activity_subtitle,Tariff Activity,Full access to features,Полный доступ к возможностям,Acceso completo a las funciones,Accesso completo alle funzionalità,Voller Zugriff auf Funktionen,Volledige toegang tot functies,Accès complet aux fonctionnalités,Pełny dostęp do funkcji
+tariff_activity_go_purchase,Tariff Activity,Continue,Продолжить,Continuar,Continua,Weiter,Ga door,Continuer,Kontynuuj
+tariff_activity_speed,Tariff Activity,Speeds up to %d Mbps,Скорость до %d Mb/s,Velocidades de hasta %d Mbps,Velocità fino a %d Mbps,Geschwindigkeiten bis zu %d Mbit/s,Snelheden tot %d Mbps,Vitesses allant jusqu'à %d Mbps,Prędkość do %d Mbps
+tariff_activity_speed_description,Tariff Activity,"Fast downloads, instant connections, and seamless browsing","Быстрая загрузка, 
+мгновенное подключение и стабильный интернет","Descargas rápidas, conexiones instantáneas y navegación fluida","Download veloci, connessioni istantanee e navigazione senza interruzioni","Schnelle Downloads, sofortige Verbindungen und nahtloses Surfen","Snelle downloads, directe verbindingen en naadloos browsen","Téléchargements rapides, connexions instantanées et navigation fluide","Szybkie pobieranie, natychmiastowe połączenia i płynne przeglądanie"
+tariff_activity_4k,Tariff Activity,Buffer-free 4K streaming,YouTube и видеоконтент в 4K,Transmisión 4K sin búfer,Streaming 4K senza buffer,Pufferfreies 4K-Streaming,Buffervrije 4K-streaming,Streaming 4K sans tampon,Przesyłanie strumieniowe 4K bez buforowania
+tariff_activity_4k_description,Tariff Activity,"Catch your favorite movies, shows, and streams in max resolution.","Смотрите любимые фильмы, 
+шоу и стримы в наивысшем качестве","Vea sus películas, programas y transmisiones favoritas en máxima resolución.","Cattura i tuoi film, programmi e streaming preferiti con la massima risoluzione.","Erleben Sie Ihre Lieblingsfilme, -sendungen und -streams in maximaler Auflösung.","Bekijk uw favoriete films, programma's en streams in maximale resolutie.","Regardez vos films, émissions et flux préférés en résolution maximale.","Oglądaj ulubione filmy, programy i transmisje strumieniowe w maksymalnej rozdzielczości."
+tariff_activity_servers,Tariff Activity,Dedicated premium servers,Выделенные серверы,Servidores premium dedicados,Server premium dedicati,Dedizierte Premium-Server,Toegewijde premium-servers,Serveurs premium dédiés,Dedykowane serwery premium
+tariff_activity_servers_description,Tariff Activity,"Less crowding, ultimate stability, and top speeds even during peak hours.","Меньше нагрузки, больше стабильности 
+и высокая скорость даже в часы пик","Menos aglomeraciones, máxima estabilidad y velocidades máximas incluso durante las horas pico.","Meno affollamento, massima stabilità e velocità massime anche nelle ore di punta.","Weniger Gedränge, ultimative Stabilität und Höchstgeschwindigkeiten auch zu Spitzenzeiten.","Minder drukte, ultieme stabiliteit en topsnelheden, zelfs tijdens piekuren.","Moins de monde, une stabilité ultime et des vitesses de pointe même pendant les heures de pointe.","Mniej zatłoczenia, najwyższa stabilność i najwyższe prędkości nawet w godzinach szczytu."
+tariff_activity_devices,Tariff Activity,Unlimited devices,Неограниченное количество устройств,Dispositivos ilimitados,Dispositivi illimitati,Unbegrenzte Anzahl an Geräten,Onbeperkte apparaten,Appareils illimités,Nieograniczona liczba urządzeń
+tariff_activity_devices_description,Tariff Activity,"One email – no limits 
+on the number of connected devices","Одна почта – без ограничений 
+на количество подключённых устройств","Un correo electrónico: sin límites 
+ en la cantidad de dispositivos conectados","Una sola email – nessun limite 
+sul numero di dispositivi connessi","Eine E-Mail – keine Grenzen 
+on der Anzahl der angeschlossenen Geräte","Eén e-mail – geen limiet 
+ op het aantal aangesloten apparaten","Un e-mail – aucune limite 
+sur le nombre d'appareils connectés","Jeden e-mail – bez ograniczeń 
+ na liczbę podłączonych urządzeń"
+tariff_activity_subtitle_world,Tariff Activity,"Fast & stable connections
+worldwide",Быстрое и стабильное подключение по всему миру,"Conexiones rápidas y estables &
+en todo el mundo","& connessioni stabili veloci
+in tutto il mondo","Schnelle & stabile Verbindungen
+weltweit","Snelle & stabiele verbindingen
+wereldwijd","Connexions rapides et stables &
+dans le monde entier","Szybkie stabilne połączenia &
+na całym świecie"
+tariff_activity_subs_details_title,Tariff Activity,Subscription details:,Детали подписки:,Detalles de la suscripción:,Dettagli dell'abbonamento:,Details zum Abonnement:,Abonnementsgegevens:,Détails de l'abonnement :,Szczegóły subskrypcji:
+tariff_activity_subs_part1_title,Tariff Activity,EasyLight Gold Plan,Тариф EasyLight Gold,Plan EasyLight Gold,Piano EasyLight Gold,EasyLight Gold-Plan,EasyLight Gold-abonnement,Forfait EasyLight Gold,Plan EasyLight Gold
+tariff_activity_subs_part1_desc,Tariff Activity,Payment will be debited from your Google Play account upon confirmation of purchase. Subscription renews automatically every month unless canceled.,"Оплата списывается с вашего аккаунта Google Play после подтверждения покупки. Подписка возобновляется автоматически каждый месяц, если она не была отменена.",El pago se debitará de su cuenta de Google Play tras la confirmación de la compra. La suscripción se renueva automáticamente cada mes a menos que se cancele.,Il pagamento verrà addebitato sul tuo account Google Play al momento della conferma dell'acquisto. L'abbonamento si rinnova automaticamente ogni mese salvo disdetta.,"Die Zahlung wird nach Bestätigung des Kaufs von Ihrem Google Play-Konto abgebucht. Das Abonnement verlängert sich automatisch jeden Monat, sofern es nicht gekündigt wird.","De betaling wordt na bevestiging van de aankoop van uw Google Play-account afgeschreven. Het abonnement wordt elke maand automatisch verlengd, tenzij opgezegd.","Le paiement sera débité de votre compte Google Play dès la confirmation de l'achat. L'abonnement se renouvelle automatiquement chaque mois, sauf annulation.","Płatność zostanie pobrana z Twojego konta Google Play po potwierdzeniu zakupu. Subskrypcja odnawia się automatycznie co miesiąc, chyba że zostanie anulowana."
+tariff_activity_subs_part2_title,Tariff Activity,Manage & Cancel,Управление и отмена,Administrar & Cancelar,Gestisci & Annulla,Verwalten & Abbrechen,Beheer & Annuleren,Gérer & Annuler,Zarządzaj & Anuluj
+tariff_activity_subs_part2_desc,Tariff Activity,"You can turn off auto-renewal or manage your subscriptions anytime in your Google Play account settings. If you cancel, you'll keep your Gold access until the end of your current billing cycle.",Вы можете в любой момент отключить автопродление или управлять своими подписками напрямую в настройках вашего профиля Google Play. При отмене подписки доступ к Gold-тарифу сохраняется до конца текущего оплаченного периода.,"Puede desactivar la renovación automática o administrar sus suscripciones en cualquier momento en la configuración de su cuenta de Google Play. Si cancela, mantendrá su acceso Gold hasta el final de su ciclo de facturación actual.","Puoi disattivare il rinnovo automatico o gestire i tuoi abbonamenti in qualsiasi momento nelle impostazioni del tuo account Google Play. Se annulli, manterrai il tuo accesso Gold fino alla fine del ciclo di fatturazione corrente.","Sie können die automatische Verlängerung jederzeit in den Einstellungen Ihres Google Play-Kontos deaktivieren oder Ihre Abonnements verwalten. Wenn Sie kündigen, behalten Sie Ihren Gold-Zugang bis zum Ende Ihres aktuellen Abrechnungszeitraums.","U kunt automatische verlenging op elk gewenst moment uitschakelen of uw abonnementen beheren in uw Google Play-accountinstellingen. Als u annuleert, behoudt u uw Gold-toegang tot het einde van uw huidige factureringscyclus.","Vous pouvez désactiver le renouvellement automatique ou gérer vos abonnements à tout moment dans les paramètres de votre compte Google Play. Si vous annulez, vous conserverez votre accès Gold jusqu'à la fin de votre cycle de facturation en cours.","Możesz wyłączyć automatyczne odnawianie lub zarządzać swoimi subskrypcjami w dowolnym momencie w ustawieniach konta Google Play. Jeśli anulujesz, zachowasz dostęp Gold do końca bieżącego cyklu rozliczeniowego."
+tariff_purchase_subscription_active,Tariff Activity,Auto-renewal enabled. Cancel at any time in Google Play settings. Manage Subscriptions.,Автопродление включено. Отмена в любой момент в настройках Google Play. Управление подписками.,Renovación automática habilitada. Cancela en cualquier momento en la configuración de Google Play. Administrar suscripciones.,Rinnovo automatico abilitato. Annulla in qualsiasi momento nelle impostazioni di Google Play. Gestisci abbonamenti.,Automatische Verlängerung aktiviert. Die Kündigung ist jederzeit in den Google Play-Einstellungen möglich. Abonnements verwalten.,Automatische verlenging ingeschakeld. Annuleer op elk gewenst moment via de Google Play-instellingen. Beheer abonnementen.,Renouvellement automatique activé. Annulez à tout moment dans les paramètres de Google Play. Gérer les abonnements.,Włączono automatyczne odnawianie. Anuluj w dowolnym momencie w ustawieniach Google Play. Zarządzaj subskrypcjami.
+tariff_purchase_manage_subscriptions,Tariff Activity,Manage Subscriptions,Управление подписками,Administrar suscripciones,Gestisci abbonamenti,Abonnements verwalten,Beheer abonnementen,Gérer les abonnements,Zarządzaj subskrypcjami
+tariff_purchase_subscription_monthly,Tariff Activity,"The first month is for %s, then auto-renewal is included for %s per month. Cancel at any time in Google Play settings.","Первый месяц за %s, далее включено автопродление %s в месяц. Отмена в любой момент в настройках Google Play.","El primer mes es para %s, luego se incluye la renovación automática para %s por mes. Cancela en cualquier momento en la configuración de Google Play.","Il primo mese è per %s, poi è incluso il rinnovo automatico per %s al mese. Annulla in qualsiasi momento nelle impostazioni di Google Play.","Der erste Monat gilt für %s, danach ist die automatische Verlängerung für %s pro Monat inbegriffen. Die Kündigung ist jederzeit in den Google Play-Einstellungen möglich.","De eerste maand is voor %s, daarna is automatische verlenging inbegrepen voor %s per maand. Annuleer op elk gewenst moment via de Google Play-instellingen.","Le premier mois concerne le %s, puis le renouvellement automatique est inclus pour le %s par mois. Annulez à tout moment dans les paramètres de Google Play.","Pierwszy miesiąc dotyczy %s, następnie automatyczne odnawianie jest uwzględnione w przypadku %s miesięcznie. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_activity_privacy_policy,Tariff Activity,Privacy policy,Политика Конфиденциальности,Política de privacidad,Informativa sulla privacy,Datenschutzrichtlinie,Privacybeleid,Politique de confidentialité,Polityka prywatności
+tariff_activity_user_agreement,Tariff Activity,User agreement,Пользовательское соглашение,Acuerdo de usuario,Contratto d'uso,Nutzungsvereinbarung,Gebruikersovereenkomst,Accord d'utilisation,Umowa użytkownika
+tariff_activity_cookie_policy,Tariff Activity,Cookie Policy,Политика cookie,Política de cookies,Politica sui cookie,Cookie-Richtlinie,Cookiebeleid,Politique en matière de cookies,Polityka plików cookie
+tariff_activity_refund_policy,Tariff Activity,Refund policy,Условия возврата,Política de reembolso,Politica di rimborso,Rückerstattungsrichtlinie,Terugbetalingsbeleid,Politique de remboursement,Polityka zwrotów
+tariff_activity_toast_mail_not_approved,Tariff Activity,"The account is not confirmed, Confirm the device from the email at %s","Аккаунт не подтвержден, Подтвердите устройство из письма на почте %s","La cuenta no está confirmada, Confirma el dispositivo desde el correo electrónico al %s","L'account non è confermato, conferma il dispositivo dall'e-mail all'indirizzo %s",Das Konto ist nicht bestätigt. Bestätigen Sie das Gerät anhand der E-Mail an %s,Het account is niet bevestigd. Bevestig het apparaat via de e-mail op %s,"Le compte n'est pas confirmé, confirmez l'appareil à partir de l'e-mail à %s",Konto nie zostało potwierdzone. Potwierdź urządzenie z wiadomości e-mail na adres %s
+tariff_activity_period,Tariff Activity,/mo,/ месяц,/mes,/mese,/Mo,/mnd,/mois,/mies
+tariff_price_per_month,Tariff Activity,%d ₽ /mo,%d ₽ / месяц,%d ₽ /mes,%d ₽ /mese,%d ₽ /Monat,%d ₽ /maand,%d ₽ /mois,%d ₽ /mies
+tariff_activity_current_tariff,Tariff Activity,Your current plan:,Ваш текущий тариф:,Su plan actual:,Il tuo piano attuale:,Ihr aktueller Plan:,Uw huidige abonnement:,Votre forfait actuel :,Twój obecny plan:
+tariff_activity_purchase_description,Tariff Activity,This is an automatically renewing subscription. Cancel at any time in Google Play settings.,Это автоматически продлеваемая подписка. Отмена в любой момент в настройках Google Play.,Esta es una suscripción que se renueva automáticamente. Cancela en cualquier momento en la configuración de Google Play.,Questo è un abbonamento che si rinnova automaticamente. Annulla in qualsiasi momento nelle impostazioni di Google Play.,Dies ist ein sich automatisch verlängerndes Abonnement. Die Kündigung ist jederzeit in den Google Play-Einstellungen möglich.,Dit is een automatisch verlengend abonnement. Annuleer op elk gewenst moment via de Google Play-instellingen.,Il s'agit d'un abonnement à renouvellement automatique. Annulez à tout moment dans les paramètres de Google Play.,Jest to automatycznie odnawiająca się subskrypcja. Anuluj w dowolnym momencie w ustawieniach Google Play.
+tariff_activity_purchase_offer_description,Tariff Activity,"The first month is for %s, then auto-renewal is included for %s per month. Cancel at any time in Google Play settings.","Первый месяц за %s, далее включено автопродление %s в месяц. Отмена в любой момент в настройках Google Play.","El primer mes es para %s, luego se incluye la renovación automática para %s por mes. Cancela en cualquier momento en la configuración de Google Play.","Il primo mese è per %s, poi è incluso il rinnovo automatico per %s al mese. Annulla in qualsiasi momento nelle impostazioni di Google Play.","Der erste Monat gilt für %s, danach ist die automatische Verlängerung für %s pro Monat inbegriffen. Die Kündigung ist jederzeit in den Google Play-Einstellungen möglich.","De eerste maand is voor %s, daarna is automatische verlenging inbegrepen voor %s per maand. Annuleer op elk gewenst moment via de Google Play-instellingen.","Le premier mois concerne le %s, puis le renouvellement automatique est inclus pour le %s par mois. Annulez à tout moment dans les paramètres de Google Play.","Pierwszy miesiąc dotyczy %s, następnie automatyczne odnawianie jest uwzględnione w przypadku %s miesięcznie. Anuluj w dowolnym momencie w ustawieniach Google Play."
+tariff_activity_purchase_done,Tariff Activity,Auto-renewal enabled. Cancel at any time in Google Play settings. Subscription management.,Автопродление включено. Отмена в любой момент в настройках Google Play. Управление подписками.,Renovación automática habilitada. Cancela en cualquier momento en la configuración de Google Play. Gestión de suscripciones.,Rinnovo automatico abilitato. Annulla in qualsiasi momento nelle impostazioni di Google Play. Gestione degli abbonamenti.,Automatische Verlängerung aktiviert. Die Kündigung ist jederzeit in den Google Play-Einstellungen möglich. Abonnementverwaltung.,Automatische verlenging ingeschakeld. Annuleer op elk gewenst moment via de Google Play-instellingen. Abonnementsbeheer.,Renouvellement automatique activé. Annulez à tout moment dans les paramètres de Google Play. Gestion des abonnements.,Włączono automatyczne odnawianie. Anuluj w dowolnym momencie w ustawieniach Google Play. Zarządzanie subskrypcjami.
+tariff_activity_purchase_unsubscribe,Tariff Activity,"The tariff is active. Auto-renewal is disabled, the subscription can be activated again.","Тариф активен. Автопродление отключено, подписку можно подключить снова.","La tarifa está activa. La renovación automática está deshabilitada, la suscripción se puede activar nuevamente.","La tariffa è attiva. Il rinnovo automatico è disabilitato, l'abbonamento può essere riattivato.","Der Tarif ist aktiv. Die automatische Verlängerung ist deaktiviert, das Abonnement kann erneut aktiviert werden.","Het tarief is actief. Automatische verlenging is uitgeschakeld, het abonnement kan opnieuw worden geactiveerd.","Le tarif est actif. Le renouvellement automatique est désactivé, l'abonnement peut être réactivé.","Taryfa jest aktywna. Automatyczne odnawianie jest wyłączone, subskrypcję można aktywować ponownie."
+tab_bar_main,Tab Bar,Connection,Подключение,Conexión,Connessione,Verbindung,Verbinding,Connexion,Połączenie
+tab_bar_tariff,Tab Bar,Tariffs,Тарифы,Tarifas,Tariffe,Tarife,Tarieven,Tarifs,Taryfy
+tab_bar_share,Tab Bar,Share,Поделиться,Compartir,Condividi,Teilen,Deel,Partager,Udostępnij
+tab_bar_profile,Tab Bar,Profile,Профиль,Perfil,Profilo,Profil,Profiel,Profil,Profil
+global_vpn_notification_name,Global,Connection status,Статус подключения,Estado de conexión,Stato della connessione,Verbindungsstatus,Verbindingsstatus,État de la connexion,Stan połączenia
+global_vpn_other_notification_name,Global,Others,Другое,Otros,Altri,Andere,Anderen,D'autres,Inni
+global_tariff_free,Global,Basic,Базовый,Básico,Essenziale,Einfach,Basis,De base,Podstawowe
+global_rateus_title,Global,Did you like our app?,Вам понравилось наше приложение?,¿Te gustó nuestra aplicación?,Ti è piaciuta la nostra app?,Hat Ihnen unsere App gefallen?,Vond je onze app leuk?,Vous avez aimé notre application ?,Czy podobała Ci się nasza aplikacja?
+global_rateus_text,Global,Your rating is very important to us. It's quick and very important.,Ваша оценка очень важна для нас. Это быстро и очень важно.,Tu calificación es muy importante para nosotros. Es rápido y muy importante.,La tua valutazione è molto importante per noi. È veloce e molto importante.,Ihre Bewertung ist uns sehr wichtig. Es geht schnell und ist sehr wichtig.,Uw beoordeling is erg belangrijk voor ons. Het is snel en erg belangrijk.,Votre note est très importante pour nous. C'est rapide et très important.,Twoja ocena jest dla nas bardzo ważna. To szybkie i bardzo ważne.
+global_rateus_button_positive,Global,Rate,Оценить,Tarifa,Vota,Bewerten,Beoordeel,Tarif,Oceń
+global_rateus_button_negative,Global,Not now,Не сейчас,Ahora no,Non ora,Nicht jetzt,Niet nu,Pas maintenant,Nie teraz
+global_notification_title,Global,VPN service active,Сервис VPN активен,Servicio VPN activo,Servizio VPN attivo,VPN-Dienst aktiv,VPN-service actief,Service VPN actif,Usługa VPN aktywna
+global_share_text,Global,"EasyLight! Simple and ad-free. On Google Play:
+","EasyLight! Просто и без рекламы. В Google Play:
+","¡EasyLight! Sencillo y sin publicidad. En Google Play:
+","EasyLight! Semplice e senza pubblicità. Su Google Play:
+","EasyLight! Einfach und werbefrei. Bei Google Play:
+","EasyLight! Eenvoudig en advertentievrij. Op Google Play:
+","EasyLight ! Simple et sans publicité. Sur Google Play :
+","EasyLight! Prosto i bez reklam. W Google Play:
+"
+global_close,Global,Close,Закрыть,Cerrar,Chiudi,Schließen,Sluiten,Fermer,Zamknij
+billing_tv_subscription_manage_title,Global,Manage subscription,Управление подпиской,Administrar suscripción,Gestisci l'abbonamento,Abonnement verwalten,Beheer abonnement,Gérer l'abonnement,Zarządzaj subskrypcją
+billing_tv_subscription_manage_message,Global,Subscription management isn’t available on Android TV. Scan the QR code with your phone or open g.co/play/subscriptions on a phone or computer.,Управление подпиской недоступно на Android TV. Отсканируйте QR-код телефоном или откройте g.co/play/subscriptions на телефоне или компьютере.,La gestión de suscripciones no está disponible en Android TV. Escanee el código QR con su teléfono o abra g.co/play/subscriptions en un teléfono o computadora.,La gestione degli abbonamenti non è disponibile su Android TV. Scansiona il codice QR con il tuo telefono o apri g.co/play/subscriptions su un telefono o un computer.,Die Abonnementverwaltung ist auf Android TV nicht verfügbar. Scannen Sie den QR-Code mit Ihrem Telefon oder öffnen Sie g.co/play/subscriptions auf einem Telefon oder Computer.,Abonnementsbeheer is niet beschikbaar op Android TV. Scan de QR-code met uw telefoon of open g.co/play/subscriptions op een telefoon of computer.,La gestion des abonnements n'est pas disponible sur Android TV. Scannez le code QR avec votre téléphone ou ouvrez g.co/play/subscriptions sur un téléphone ou un ordinateur.,Zarządzanie subskrypcjami nie jest dostępne na platformie Android TV. Zeskanuj kod QR telefonem lub otwórz g.co/play/subscriptions na telefonie lub komputerze.
+global_qr_title,Global,Tariff payment,Оплата тарифа,Pago de tarifa,Pagamento della tariffa,Tarifzahlung,Tariefbetaling,Paiement du tarif,Płatność taryfowa
+global_qr_link,Global,Pay via link,Оплатить по ссылке,Pagar mediante enlace,Paga tramite collegamento,Bezahlen Sie per Link,Betalen via link,Payer via un lien,Zapłać poprzez link
+global_qr_description,Global,"Payment for %s plan
+
+1. Open the camera and point it
+   at the QR code to scan.
+2. Follow the link and pay
+   via the YooKassa service.
+3. Access will be granted
+   automatically.
+
+You can scan with any
+QR code app.","Оплата тарифа %s
+
+1. Откройте камеру и наведите её
+   на QR-код для сканирования.
+2. Перейдите по ссылке и оплатите
+   через сервис оплаты.
+3. После этого доступ будет выдан
+   автоматически.
+
+Сканировать можно любым
+приложением для QR-кодов.","Pago del plan %s
+
+1. Abre la cámara y apúntala
+ en el código QR para escanear.
+2. Sigue el enlace y paga.
+ a través del servicio YooKassa.
+3. Se concederá el acceso
+ automáticamente.
+
+Puedes escanear con cualquierAplicación de código 
+QR.","Pagamento per piano %s
+
+1. Apri la fotocamera e puntala
+ al codice QR da scansionare.
+2. Segui il link e paga
+ tramite il servizio YooKassa.
+3. L'accesso sarà concesso
+ automaticamente.
+
+Puoi eseguire la scansione con qualsiasi
+QR codice app.","Zahlung für %s-Plan
+
+1. Öffnen Sie die Kamera und richten Sie sie aus
+ am QR-Code zum Scannen.
+2. Folgen Sie dem Link und zahlen Sie
+ über den YooKassa-Dienst.
+3. Der Zugang wird gewährt
+ automatisch.
+
+Sie können mit jedem scannen
+QR Code App.","Betaling voor %s-abonnement
+
+1. Open de camera en richt deze
+ bij de QR-code om te scannen.
+2. Volg de link en betaal
+ via de YooKassa-service.
+3. Er zal toegang worden verleend
+ automatisch.
+
+U kunt met elk apparaat scannen
+QR code-app.","Paiement pour le plan %s
+
+1. Ouvrez la caméra et pointez-la
+ au code QR à scanner.
+2. Suivez le lien et payez
+ via le service YooKassa.
+3. L'accès sera accordé
+ automatiquement.
+
+Vous pouvez numériser avec n'importe quelApplication de code 
+QR.","Płatność za plan %s
+
+1. Otwórz aparat i skieruj go
+ przy kodzie QR do zeskanowania.
+2. Kliknij link i zapłać
+ za pośrednictwem usługi YooKassa.
+3. Dostęp zostanie przyznany
+ automatycznie.
+
+Możesz skanować za pomocą dowolnegoAplikacja kodu 
+QR."
+global_bad_connection,Global,Poor connection detected,Обнаруженно плохое соединение,Mala conexión detectada,Rilevata connessione scadente,Schlechte Verbindung erkannt,Slechte verbinding gedetecteerd,Mauvaise connexion détectée,Wykryto słabe połączenie
+global_day_one,Global,day,день,dia,giorno,Tag,dag,jour,dzień
+global_day_some,Global,days,дней,dias,giorni,Tage,dagen,jours,dni
+global_day_couple,Global,days,дня,dias,giorni,Tage,dagen,jours,dni
+global_hour_one,Global,hour,час,hora,ora,Stunde,uur,heure,godzina
+global_hour_some,Global,hours,часов,horas,ore,Stunden,uur,heures,godziny
+global_hour_couple,Global,hours,часа,horas,ore,Stunden,uur,heures,godziny
+global_premium_name,Global,Gold,Gold,Gold,Gold,Gold,Gold,Gold,Gold
+global_auto_server,Global,Auto-select,Автовыбор,Selección automática,Selezione automatica,Automatisch auswählen,Automatische selectie,Sélection automatique,Automatyczny wybór
+global_youtube,Global,YouTube,YouTube,youtube,YouTube,YouTube,YouTube,YouTube,YouTube
+global_usa,Global,USA,США,Estados Unidos,Stati Uniti,USA,VS,États-Unis,USA
+global_games_server,Global,Games,Игры,Juegos,Giochi,Spiele,Spellen,Jeux,Gry
+global_request_background_status_title,Global,Allow background data transfer,Разрешите фоновую передачу данных,Permitir transferencia de datos en segundo plano,Consenti trasferimento dati in background,Hintergrunddatenübertragung zulassen,Gegevensoverdracht op de achtergrond toestaan,Autoriser le transfert de données en arrière-plan,Zezwalaj na przesyłanie danych w tle
+global_request_background_status_description,Global,"To prevent connection interruptions, please allow data transfer in the background. Tap ""Configure"" and enable this setting in your device settings.","Чтобы соединение не прерывалось, разрешите передавать данные в фоновом режиме. Нажмите «Настроить» и включите этот параметр в настройках.","Para evitar interrupciones en la conexión, permita la transferencia de datos en segundo plano. Toque ""Configurar"" y habilite esta configuración en la configuración de su dispositivo.","Per evitare interruzioni della connessione, consentire il trasferimento dei dati in background. Tocca ""Configura"" e attiva questa impostazione nelle impostazioni del tuo dispositivo.","Um Verbindungsunterbrechungen zu vermeiden, erlauben Sie bitte die Datenübertragung im Hintergrund. Tippen Sie auf „Konfigurieren“ und aktivieren Sie diese Einstellung in Ihren Geräteeinstellungen.","Om verbindingsonderbrekingen te voorkomen, moet u gegevensoverdracht op de achtergrond toestaan. Tik op ""Configureren"" en schakel deze instelling in uw apparaatinstellingen in.","Pour éviter les interruptions de connexion, veuillez autoriser le transfert de données en arrière-plan. Appuyez sur « Configurer » et activez ce paramètre dans les paramètres de votre appareil.","Aby zapobiec przerwom w połączeniu, zezwól na przesyłanie danych w tle. Kliknij „Konfiguruj” i włącz to ustawienie w ustawieniach swojego urządzenia."
+global_request_background_status_ok,Global,Configure,Настроить,Configurar,Configura,Konfigurieren,Configureer,Configurer,Skonfiguruj
+global_request_background_status_discard,Global,Cancel,Отмена,Cancelar,Annulla,Abbrechen,Annuleer,Annuler,Anuluj
+global_request_background_status_message,Global,The app may not work correctly.,Приложение может работать некорректно.,Es posible que la aplicación no funcione correctamente.,L'app potrebbe non funzionare correttamente.,Die App funktioniert möglicherweise nicht richtig.,De app werkt mogelijk niet correct.,L'application peut ne pas fonctionner correctement.,Aplikacja może nie działać poprawnie.
+global_update_title,Global,App update required,Требуется обновление приложения,Se requiere actualización de la aplicación,È richiesto l'aggiornamento dell'app,App-Update erforderlich,App-update vereist,Mise à jour de l'application requise,Wymagana aktualizacja aplikacji
+global_update_google_play,Global,Update on Google Play,Google Play,Actualización en Google Play,Aggiornamento su Google Play,Update auf Google Play,Update op Google Play,Mise à jour sur Google Play,Aktualizacja w Google Play
+global_gbox_text,Global,"The app cannot run if installed via GBox. To ensure proper functionality, update the app through the APK file from our website.","Приложение не может быть запущено, если оно установлено через GBox. Для корректной работы необходимо обновить это приложение через APK-файл с нашего сайта.","La aplicación no se puede ejecutar si se instala a través de GBox. Para garantizar un funcionamiento adecuado, actualice la aplicación a través del archivo APK de nuestro sitio web.","L'app non può essere eseguita se installata tramite GBox. Per garantire il corretto funzionamento, aggiorna l'app tramite il file APK dal nostro sito web.","Die App kann nicht ausgeführt werden, wenn sie über GBox installiert wird. Um die ordnungsgemäße Funktionalität sicherzustellen, aktualisieren Sie die App über die APK-Datei von unserer Website.",De app kan niet worden uitgevoerd als deze via GBox is geïnstalleerd. Update de app via het APK-bestand van onze website om een ​​goede functionaliteit te garanderen.,"L'application ne peut pas s'exécuter si elle est installée via GBox. Pour garantir un bon fonctionnement, mettez à jour l'application via le fichier APK de notre site Web.","Aplikacja nie może zostać uruchomiona, jeśli jest zainstalowana poprzez GBox. Aby zapewnić prawidłowe działanie, zaktualizuj aplikację za pomocą pliku APK z naszej strony internetowej."
+global_download_apk,Global,Download APK file,APK-файл,Descargar el archivo APK,Scarica il file APK,Laden Sie die APK-Datei herunter,APK-bestand downloaden,Télécharger le fichier APK,Pobierz plik APK
+global_gbox_negative,Global,Exit,Выйти,Salir,Esci,Ausstieg,Afsluiten,Quitter,Wyjdź
+global_minutes_short_with_space,Global,min.,мин.,mín.,min.,min.,min.,min.,min.
+global_seconds_short_with_space,Global,sec.,сек.,seg.,sez.,Sek.,sec.,sec.,sek.
+global_price_free,Global,Free,Бесплатно,Gratis,Gratuito,Kostenlos,Gratis,Gratuit,Bezpłatny
+global_search,Global,Search,Поиск,Buscar,Cerca,Suchen,Zoeken,Rechercher,Szukaj
+rus_server_short_name,Servers,RUS,RUS,Rusia,RUS,RUS,RUS,Russie,RUS
+strike_text,Offers,%s,%s,%s,%s,%s,%s,%s,%s
+offer_exipre_time,Offers,Time left,Осталось,Tiempo restante,Tempo rimasto,Noch Zeit,Nog tijd over,Temps restant,Pozostał czas
+new_tariff_top_message_lost,NewTariff,Tariff expired,Тариф истек,Tarifa vencida,Tariffa scaduta,Tarif abgelaufen,Tarief verlopen,Tarif expiré,Taryfa wygasła
+new_tariff_top_message_gold,NewTariff,You're all set,Тариф подключён,Estás todo listo,È tutto a posto,Sie sind bereit,Je bent er helemaal klaar voor,Vous êtes prêt,Wszystko gotowe
+new_tariff_top_message_start,NewTariff,You've unlocked the trial,Вы получили пробный тариф,Has desbloqueado la prueba.,Hai sbloccato la prova,Sie haben die Testversion freigeschaltet,Je hebt de proefversie ontgrendeld,Vous avez débloqué l'essai,Odblokowałeś wersję próbną
+new_tariff_top_message_free,NewTariff,Your current plan,Ваш текущий тариф,Tu plan actual,Il tuo piano attuale,Ihr aktueller Plan,Uw huidige abonnement,Votre forfait actuel,Twój aktualny plan
+new_tariff_status_lost,NewTariff,Your tariff has ended,Ваш тариф завершился,Tu tarifa ha terminado,La tua tariffa è scaduta,Ihr Tarif ist beendet,Uw tarief is beëindigd,Votre tarif est terminé,Twoja taryfa dobiegła końca
+new_tariff_unlimited,NewTariff,free forever,доступен бессрочно,libre para siempre,libero per sempre,für immer kostenlos,voor altijd vrij,libre pour toujours,wolny na zawsze
+new_tariff_duration_date,NewTariff,for %s,на %s,para %s,per %s,für %s,voor %s,pour %s,dla %s
+new_tariff_start_duration,NewTariff,%d-Day Starter,на %d дней,%d-Arrancador de día,%d-Giorno Antipasto,%d-Tagesstarter,%d-dagstarter,%d-Démarreur de jour,%d – Rozrusznik dzienny
+new_tariff_expiration_date,NewTariff,until %s,до %s,hasta %s,fino a %s,bis %s,tot %s,jusqu'à %s,aż do %s
+new_tariff_expiration_date_start,NewTariff,Valid until %s,до %s года,Válido hasta %s,Valido fino al %s,Gültig bis %s,Geldig tot %s,Valable jusqu'au %s,Ważne do %s
+new_tariff_expiration_date_gold,NewTariff,Renews on: %s,Следующее продление: %s,Se renueva el: %s,Si rinnova su: %s,Verlängert am: %s,Wordt verlengd op: %s,Renouvelle le : %s,Odnawia się: %s
+new_tariff_info_text,NewTariff,What you get:,Вам доступно:,Lo que obtienes:,Cosa ottieni:,Was Sie bekommen:,Wat je krijgt:,Ce que vous obtenez :,Co otrzymasz:
+new_tariff_text_lost,NewTariff,"You have been automatically switched
+ to the free Basic tariff","Вы автоматически переведены
+ на бесплатный Базовый тариф","Has sido cambiado automáticamente
+ a la tarifa Básica gratuita","Sei passato automaticamente
+ alla tariffa Base gratuita","Sie wurden automatisch auf den kostenlosen Basic-Tarif umgestellt
+","U bent automatisch overgezet
+ naar het gratis Basistarief","Vous avez été automatiquement basculé
+ vers le tarif Basic gratuit","Zostałeś automatycznie przełączony 
+ na bezpłatną taryfę Basic"
+new_tariff_text_gold,NewTariff,"After the current tariff expires,
+ you will automatically switch
+ to the free Basic tariff","По истечении срока действия текущего
+ тарифа вы автоматически перейдете
+ на бесплатный Базовый тариф","Después de que caduque la tarifa actual, 
+ cambiará automáticamente
+ a la tarifa Básica gratuita","Una volta scaduta la tariffa attuale, 
+ passerai automaticamente da 
+ alla tariffa Base gratuita","Nach Ablauf des aktuellen Tarifs
+ wechseln Sie automatisch
+ zum kostenlosen Basic-Tarif","Nadat het huidige tarief vervalt
+ stapt u automatisch over
+ naar het gratis Basistarief","Après l'expiration du tarif actuel, 
+, vous passerez automatiquement 
+ au tarif de base gratuit.","Po wygaśnięciu aktualnej taryfy 
+ automatycznie przełączysz 
+ na bezpłatną taryfę Basic"
+new_tariff_speed_info,NewTariff,Speeds up to %d Mbps,Скорость до %d Мбит/с,Velocidades de hasta %d Mbps,Velocità fino a %d Mbps,Geschwindigkeiten bis zu %d Mbit/s,Snelheden tot %d Mbps,Vitesses allant jusqu'à %d Mbps,Prędkość do %d Mbps
+new_tariff_dedicated_servers,NewTariff,Premium dedicated servers,Выделенные серверы,Servidores dedicados premium,Server dedicati premium,Dedizierte Premium-Server,Premium dedicated servers,Serveurs dédiés premium,Serwery dedykowane premium
+new_tariff_dedicated_start_servers,NewTariff,Dedicated servers,Доступ к выделенным серверам,Servidores dedicados,Server dedicati,Dedizierte Server,Toegewijde servers,Serveurs dédiés,Serwery dedykowane
+new_tariff_common_servers,NewTariff,Shared server access,Доступ к общим серверам,Acceso al servidor compartido,Accesso al server condiviso,Gemeinsamer Serverzugriff,Gedeelde servertoegang,Accès au serveur partagé,Współdzielony dostęp do serwera
+new_tariff_price_single_payment,NewTariff,Buffer-free 4K streaming,YouTube и видеоконтент в 4K,Transmisión 4K sin búfer,Streaming 4K senza buffer,Pufferfreies 4K-Streaming,Buffervrije 4K-streaming,Streaming 4K sans tampon,Przesyłanie strumieniowe 4K bez buforowania
+new_tariff_price_no_payment,NewTariff,"No auto-renewals, zero sneaky charges","Без списаний, без подписки","Sin renovaciones automáticas, sin cargos engañosos","Nessun rinnovo automatico, zero costi subdoli","Keine automatischen Verlängerungen, keine hinterhältigen Gebühren","Geen automatische verlengingen, geen stiekeme kosten","Pas de renouvellement automatique, aucun frais sournois","Żadnych automatycznych odnawiań, zero podstępnych opłat"
+new_tariff_price_device_info,NewTariff,Unlimited devices,Неограниченное количество подключенных устройств,Dispositivos ilimitados,Dispositivi illimitati,Unbegrenzte Anzahl an Geräten,Onbeperkte apparaten,Appareils illimités,Nieograniczona liczba urządzeń
+new_tariff_button_lost,NewTariff,Choose a new tariff,Выбрать новый тариф,Elige una nueva tarifa,Scegli una nuova tariffa,Wählen Sie einen neuen Tarif,Kies een nieuw tarief,Choisissez un nouveau tarif,Wybierz nową taryfę
+new_tariff_button_gold,NewTariff,Got it,Отлично,Lo tengo,Capito,Verstanden,Ik heb het,Je l'ai compris,Rozumiem
+widget_connection,Widget,Connecting…,Подключение…,Conectando…,Connessione…,Verbinden…,Verbinden…,Connexion…,Łączę…
+widget_disconnection,Widget,Disconnection…,Отключение…,Desconexión…,Disconnessione…,Trennung…,Verbinding verbroken…,Déconnexion…,Rozłączenie…
+widget_connected,Widget,Connected,Подключено,Conectado,Connesso,Verbunden,Verbonden,Connecté,Połączono
+widget_disconnected,Widget,Disconnected,Не подключено,desconectado,Disconnesso,Nicht verbunden,Verbinding verbroken,Déconnecté,Rozłączony
+cs_back,ContentDescriptions,Go back,Назад,volver,Torna indietro,Geh zurück,Ga terug,Retourner,Wróć
+cs_tapbar_icon,ContentDescriptions,Icon,Иконка,Icono,Icona,Symbol,Icoon,Icône,Ikona
+cs_tapbar_new,ContentDescriptions,New,Новое,Nuevo,Nuovo,Neu,Nieuw,Nouveau,Nowy
+cs_tapbar_sale,ContentDescriptions,Sale,Скидки,Venta,Vendita,Verkauf,Verkoop,Vente,Sprzedaż
+global_back,Global localized,Back,Назад,Atrás,Indietro,Zurück,Terug,Retour,Powrót
+intelligent_selection_method.0,xRay-Notifications,Least Ping,Наименьшая задержка,Ping mínimo,Ping minimo,Least Ping,Minste ping,Moin Ping,Najmniejszy ping
+intelligent_selection_method.1,xRay-Notifications,Least Load,Наименьшая нагрузка,Carga mínima,Carico minimo,Geringste Last,Minste belasting,Charge minimale,Najmniejsze obciążenie
+subscription_months.one,Global,%d month,%d месяц,%d mes,%d mese,%d Monat,%d maand,%d mois,%d miesiąc
+subscription_months.few,Global,%d months,%d месяца,%d meses,%d mesi,%d Monate,%d maanden,%d mois,%d miesiące
+subscription_months.many,Global,%d months,%d месяцев,%d meses,%d mesi,%d Monate,%d maanden,%d mois,%d miesięcy
+subscription_months.other,Global,%d months,%d месяцев,%d meses,%d mesi,%d Monate,%d maanden,%d mois,%d miesięcy
+subscription_days.one,Global,%d day,%d день,%d día,%d giorno,%d Tag,%d dag,%d jour,%d dzień
+subscription_days.few,Global,%d days,%d дня,%d días,%d giorni,%d Tage,%d dagen,%d jours,%d dni
+subscription_days.many,Global,%d days,%d дней,%d días,%d giorni,%d Tage,%d dagen,%d jours,%d dni
+subscription_days.other,Global,%d days,%d дней,%d días,%d giorni,%d Tage,%d dagen,%d jours,%d dni
+global_whitelist,Global,White List,White List,White List,White List,White List,White List,White List,White List
